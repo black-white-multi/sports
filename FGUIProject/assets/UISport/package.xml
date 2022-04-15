@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="32t0d42v">
+  <resources>
+    <component id="j5uc1" name="UILogin.xml" path="/UI/" exported="true"/>
+    <component id="j5uc2" name="ButtonCommonBlue.xml" path="/Component/Button/"/>
+    <component id="j5uc3" name="ButtonCommonGreen.xml" path="/Component/Button/"/>
+    <component id="j5uc4" name="ButtonCommonRed.xml" path="/Component/Button/"/>
+    <image id="j5uc6" name="bg_btn_blue.svg" path="/Resources/SVG/bg_comm/" exported="true" scale="9grid" scale9grid="16,22,22,25" width="64" height="64"/>
+    <image id="j5uc7" name="bg_btn_gray.svg" path="/Resources/SVG/bg_comm/" exported="true" scale="9grid" scale9grid="16,22,22,25" width="64" height="64"/>
+    <image id="j5uc8" name="bg_btn_green.svg" path="/Resources/SVG/bg_comm/" exported="true" scale="9grid" scale9grid="16,22,22,25" width="64" height="64"/>
+    <image id="j5uc9" name="bg_btn_red.svg" path="/Resources/SVG/bg_comm/" exported="true" scale="9grid" scale9grid="16,22,22,25" width="64" height="64"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #008e29;
+      }
+
+      .cls-2 {
+        fill: #37fd00;
+      }
+
+      .cls-3 {
+        fill: #13d80b;
+      }
+
+      .cls-4 {
+        fill: #cfffc9;
+      }
+    </style>
+  </defs>
+  <g id="图层_6" data-name="图层 6">
+    <path d="M58,0H6.4L0,6.4V57l7,7H57.4L64,57.4V6Zm4,55.8L55.8,62H8.5L2,55.5V8L8,2H56.4L62,7.6Z"/>
+    <polygon class="cls-1" points="8.5 62 55.8 62 61.9 55.9 2.4 55.9 8.5 62"/>
+    <polygon class="cls-2" points="53.9 7.9 48 2 8 2 2.1 7.9 2 8 2 8 54 8 53.9 7.9"/>
+    <polygon class="cls-3" points="54 8 2 8 2 55.5 2.4 55.9 61.9 55.9 62 55.8 62 16 54 8"/>
+    <polygon class="cls-4" points="56.4 2 48 2 53.9 7.9 54 8 62 16 62 8 62 7.9 62 7.6 56.4 2"/>
+  </g>
+</svg>
