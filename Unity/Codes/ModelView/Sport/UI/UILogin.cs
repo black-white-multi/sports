@@ -16,8 +16,8 @@ namespace ET
     [UIView(WindowId.UILogin)]
     public class UILogin : UIBaseView
     {
-        private GButton btn_account;
-        private GButton btn_visitor;
+        private GButton btn_login;
+        private GButton btn_play;
 
         public override void InitUI()
         {
@@ -27,16 +27,18 @@ namespace ET
             GTextField nametxt = mPanel.GetChild("txt_version").asTextField;
             nametxt.text = $"v0.0.1";
 
-            btn_visitor = mPanel.GetChild("btn_visitor").asButton;
-            //btn_visitor.title = Localizer.Instance.GetText("GLOBAL_BTN_VISITOR");
-            btn_visitor.onClick.Set(() =>
+            btn_login = mPanel.GetChild("btn_login").asButton;
+            btn_login.title = $"变更使用者";
+            //btn_login.title = Localizer.Instance.GetText("GLOBAL_BTN_VISITOR");
+            btn_login.onClick.Set(() =>
             {
                 Log.Debug($"1");
             });
 
-            btn_account = mPanel.GetChild("btn_account").asButton;
-            //btn_account.title = Localizer.Instance.GetText("GLOBAL_BTN_ACCOUNT");
-            btn_account.onClick.Set(() =>
+            btn_play = mPanel.GetChild("btn_play").asButton;
+            btn_play.title = $"Name";
+            //btn_play.title = Localizer.Instance.GetText("GLOBAL_BTN_ACCOUNT");
+            btn_play.onClick.Set(() =>
             {
                 Log.Debug($"2");
             });

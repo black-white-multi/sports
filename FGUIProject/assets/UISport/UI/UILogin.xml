@@ -1,17 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="1280,720">
+<component size="1280,720" designImageOffsetY="32">
   <displayList>
-    <graph id="n1_zrsi" name="n1" xy="0,0" size="1280,720" type="rect" lineSize="0">
-      <relation target="" sidePair="width-width,height-height,center-center,middle-middle"/>
-    </graph>
-    <component id="n0_ugz4" name="btn_visitor" src="j5uc4" fileName="Component/Button/ButtonCommonRed.xml" xy="551,560" aspect="true">
-      <relation target="" sidePair="center-center,middle-middle"/>
-    </component>
-    <component id="n3_qi58" name="btn_account" src="j5uc3" fileName="Component/Button/ButtonCommonGreen.xml" xy="551,480">
-      <relation target="" sidePair="center-center,middle-middle"/>
-    </component>
-    <text id="n2_bvbg" name="txt_version" xy="1056,676" size="217,32" font="Microsoft YaHei" fontSize="22" color="#ffffff" align="right" strokeColor="#000000" autoClearText="true" text="© 2022 v0.1.0 alpha">
+    <text id="n2_bvbg" name="txt_version" xy="1084,684" size="178,26" font="Microsoft YaHei" fontSize="18" color="#f4fef6" align="right" autoClearText="true" text="© 2022 v0.1.0 alpha">
       <relation target="" sidePair="right-right,bottom-bottom"/>
     </text>
+    <component id="n4_xh1g" name="btn_login" src="j5uc2" fileName="Component/Button/ButtonCommonBlue.xml" xy="58,616" size="348,68">
+      <relation target="" sidePair="left-left,bottom-bottom"/>
+    </component>
+    <component id="n6_xh1g" name="btn_play" src="xh1gh" fileName="Component/Button/ButtonPlay.xml" xy="380,310">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
   </displayList>
 </component>

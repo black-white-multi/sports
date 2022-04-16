@@ -2,13 +2,21 @@
 <packageDescription id="32t0d42v">
   <resources>
     <component id="j5uc1" name="UILogin.xml" path="/UI/" exported="true"/>
-    <component id="j5uc2" name="ButtonCommonBlue.xml" path="/Component/Button/"/>
-    <component id="j5uc3" name="ButtonCommonGreen.xml" path="/Component/Button/"/>
-    <component id="j5uc4" name="ButtonCommonRed.xml" path="/Component/Button/"/>
+    <component id="j5uc2" name="ButtonCommonBlue.xml" path="/Component/Button/" exported="true"/>
+    <component id="j5uc3" name="ButtonCommonGreen.xml" path="/Component/Button/" exported="true"/>
+    <component id="j5uc4" name="ButtonCommonRed.xml" path="/Component/Button/" exported="true"/>
     <image id="j5uc6" name="bg_btn_blue.svg" path="/Resources/SVG/bg_comm/" exported="true" scale="9grid" scale9grid="16,22,22,25" width="64" height="64"/>
     <image id="j5uc7" name="bg_btn_gray.svg" path="/Resources/SVG/bg_comm/" exported="true" scale="9grid" scale9grid="16,22,22,25" width="64" height="64"/>
     <image id="j5uc8" name="bg_btn_green.svg" path="/Resources/SVG/bg_comm/" exported="true" scale="9grid" scale9grid="16,22,22,25" width="64" height="64"/>
     <image id="j5uc9" name="bg_btn_red.svg" path="/Resources/SVG/bg_comm/" exported="true" scale="9grid" scale9grid="16,22,22,25" width="64" height="64"/>
+    <image id="xh1ga" name="bg_blue.png" path="/Resources/Image/bg_comm/" exported="true" scale="9grid" scale9grid="16,16,32,32"/>
+    <image id="xh1gb" name="bg_btn_blue.png" path="/Resources/Image/bg_comm/" exported="true" scale="9grid" scale9grid="16,16,32,32"/>
+    <image id="xh1gc" name="bg_btn_orange.png" path="/Resources/Image/bg_comm/" exported="true" scale="9grid" scale9grid="16,16,32,32"/>
+    <image id="xh1gd" name="bg_btn_white.png" path="/Resources/Image/bg_comm/" exported="true" scale="9grid" scale9grid="16,16,32,32"/>
+    <image id="xh1ge" name="bg_orange.png" path="/Resources/Image/bg_comm/" exported="true" scale="9grid" scale9grid="16,16,32,32"/>
+    <image id="xh1gf" name="bg_white.png" path="/Resources/Image/bg_comm/" exported="true" scale="9grid" scale9grid="16,16,32,32"/>
+    <component id="xh1gh" name="ButtonPlay.xml" path="/Component/Button/" exported="true"/>
+    <image id="xh1gj" name="bg_btn_play.png" path="/Resources/Image/bg_comm/" exported="true" scale="9grid" scale9grid="38,0,28,160"/>
   </resources>
   <publish name=""/>
 </packageDescription>
