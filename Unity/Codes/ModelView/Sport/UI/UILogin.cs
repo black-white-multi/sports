@@ -18,6 +18,7 @@ namespace ET
     {
         private GButton btn_login;
         private GButton btn_play;
+        private GButton btn_language;
 
         public override void InitUI()
         {
@@ -42,6 +43,9 @@ namespace ET
             {
                 Log.Debug($"2");
             });
+
+            btn_language = mPanel.GetChild("btn_language").asButton;
+            btn_language.title = $"简体中文";
         }
 
         public override void Dispose()

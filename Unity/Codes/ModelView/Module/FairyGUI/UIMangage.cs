@@ -53,7 +53,10 @@ namespace ET
             string path = "FGUI/";
             //加载UI包
             UIPackage.AddPackage($"{path}{WindowId.FGUIPackage}");
-            
+
+            FontManager.RegisterFont(FontManager.GetFont("Myriad-Bold"), "Myriad-Bold");
+            UIConfig.defaultFont = "Myriad-Bold";
+
             GRoot.inst.SetContentScaleFactor(DESIGN_SCREEN_WIDTH, DESIGN_SCREEN_HEIGHT, UIContentScaler.ScreenMatchMode.MatchWidthOrHeight);
             this.Load();
 

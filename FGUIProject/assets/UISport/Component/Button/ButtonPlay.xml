@@ -5,8 +5,30 @@
     <image id="n1" name="n1" src="xh1gj" fileName="Resources/Image/bg_comm/bg_btn_play.png" xy="0,0" size="510,160">
       <relation target="" sidePair="width-width,height-height"/>
     </image>
-    <text id="n4" name="title" xy="35,10" size="475,96" fontSize="42" color="#2e2e2e" vAlign="middle" autoSize="shrink" singleLine="true" autoClearText="true" text="UserName">
+    <text id="n4" name="title" xy="35,10" size="475,96" fontSize="42" color="#2e2e2e" vAlign="middle" autoSize="shrink" bold="true" singleLine="true" autoClearText="true" text="Name">
       <relation target="" sidePair="width-width,height-height"/>
+    </text>
+    <image id="n5_vife" name="n5" src="vifem" fileName="Resources/Image/icon/icon_clock.png" xy="285,122" size="22,22" aspect="true" alpha="0.3">
+      <relation target="" sidePair="center-center,bottomext-bottom"/>
+    </image>
+    <image id="n6_vife" name="n6" src="vifen" fileName="Resources/Image/icon/icon_speed.png" xy="161,122" size="24,24" aspect="true" alpha="0.3">
+      <relation target="" sidePair="center-center,bottomext-bottom"/>
+    </image>
+    <text id="n7_vife" name="n7" xy="187,118" size="14,26" alpha="0.4" fontSize="18" text="0"/>
+    <text id="n8_vife" name="n8" xy="202,128" size="14,19" alpha="0.4" fontSize="12" singleLine="true" text="m">
+      <relation target="n7_vife" sidePair="middle-middle,left-right"/>
+    </text>
+    <text id="n9_vife" name="n9" xy="309,118" size="14,26" alpha="0.4" fontSize="18" text="0"/>
+    <text id="n10_vife" name="n10" xy="324,128" size="32,19" alpha="0.4" fontSize="12" singleLine="true" text="MINS">
+      <relation target="n9_vife" sidePair="middle-middle,left-right"/>
+      <relation target="" sidePair="left-left"/>
+    </text>
+    <image id="n11_vife" name="n11" src="vifen" fileName="Resources/Image/icon/icon_speed.png" xy="37,122" size="24,24" aspect="true" alpha="0.3">
+      <relation target="" sidePair="center-center,bottomext-bottom"/>
+    </image>
+    <text id="n12_vife" name="n12" xy="62,118" size="14,26" alpha="0.4" fontSize="18" text="0"/>
+    <text id="n13_vife" name="n13" xy="77,128" size="21,19" alpha="0.4" fontSize="12" singleLine="true" text="km">
+      <relation target="n12_vife" sidePair="middle-middle,left-right"/>
     </text>
   </displayList>
   <Button downEffect="dark" downEffectValue=".95"/>

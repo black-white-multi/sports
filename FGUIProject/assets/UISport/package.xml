@@ -17,6 +17,11 @@
     <image id="xh1gf" name="bg_white.png" path="/Resources/Image/bg_comm/" exported="true" scale="9grid" scale9grid="16,16,32,32"/>
     <component id="xh1gh" name="ButtonPlay.xml" path="/Component/Button/" exported="true"/>
     <image id="xh1gj" name="bg_btn_play.png" path="/Resources/Image/bg_comm/" exported="true" scale="9grid" scale9grid="38,0,28,160"/>
+    <image id="vifek" name="icon_language.png" path="/Resources/Image/icon/" exported="true"/>
+    <component id="vifel" name="ButtonIconBlue.xml" path="/Component/Button/"/>
+    <image id="vifem" name="icon_clock.png" path="/Resources/Image/icon/" exported="true"/>
+    <image id="vifen" name="icon_speed.png" path="/Resources/Image/icon/" exported="true"/>
+    <font id="vifeq" name="Myriad-Bold.otf" path="/Font/" renderMode="" samplePointSize="16"/>
   </resources>
   <publish name=""/>
 </packageDescription>

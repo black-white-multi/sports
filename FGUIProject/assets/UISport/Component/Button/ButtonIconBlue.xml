@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="100,100" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n0_vife" name="n0" src="xh1ga" fileName="Resources/Image/bg_comm/bg_blue.png" xy="0,0" size="100,100">
+      <gearDisplay controller="button" pages="0"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n1_vife" name="n1" src="xh1ga" fileName="Resources/Image/bg_comm/bg_blue.png" xy="0,0" size="100,100">
+      <gearDisplay controller="button" pages="2"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n2_vife" name="n2" src="xh1ga" fileName="Resources/Image/bg_comm/bg_blue.png" xy="0,0" size="100,100">
+      <gearDisplay controller="button" pages="1,3"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <text id="n3_vife" name="title" xy="0,72" size="100,26" fontSize="16" color="#ffffff" align="center" vAlign="middle" autoSize="shrink" singleLine="true" autoClearText="true" text="繁体中文">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </text>
+    <loader id="n4_vife" name="icon" xy="18,4" size="64,64" url="ui://32t0d42vvifek" align="center" vAlign="middle" autoSize="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </loader>
+  </displayList>
+  <Button downEffect="dark" downEffectValue=".9"/>
+</component>
