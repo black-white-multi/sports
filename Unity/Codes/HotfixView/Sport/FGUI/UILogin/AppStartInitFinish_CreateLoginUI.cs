@@ -6,7 +6,7 @@ namespace ET
 	{
 		protected override void Run(EventType.AppStartInitFinish args)
 		{
-			UIMangage.Instance.ShowUI(WindowId.UILogin);
+			UIManage.Instance.ShowUI(WindowId.UILogin);
 		}
 	}
 }

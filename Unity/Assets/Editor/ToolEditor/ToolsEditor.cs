@@ -14,7 +14,18 @@ namespace ET
 #endif
             ShellHelper.Run($"{tools} --AppType=ExcelExporter --Console=1", "../Bin/");
         }
-        
+
+        [MenuItem("Tools/LocalizationExporter")]
+        public static void LocalizationExporter()
+        {
+#if UNITY_EDITOR_OSX
+            const string tools = "./Tools";
+#else
+            const string tools = ".\\Tools.exe";
+#endif
+            ShellHelper.Run($"{tools} --AppType=LocalizationExporter --Console=1", "../Bin/");
+        }
+
         [MenuItem("Tools/Proto2CS")]
         public static void Proto2CS()
         {

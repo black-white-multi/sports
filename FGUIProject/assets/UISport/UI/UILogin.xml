@@ -13,5 +13,8 @@
     <component id="n7_vife" name="btn_language" src="vifel" fileName="Component/Button/ButtonIconBlue.xml" xy="1128,578">
       <relation target="" sidePair="right-right,bottom-bottom"/>
     </component>
+    <component id="n8_ufvg" name="btn_sound" src="ufvgt" fileName="Component/Button/ButtonSound.xml" xy="130,40">
+      <relation target="" sidePair="left-left,top-top"/>
+    </component>
   </displayList>
 </component>

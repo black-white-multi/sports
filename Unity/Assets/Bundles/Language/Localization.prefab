@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &184536
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 425028}
+  - component: {fileID: 114000012985339954}
+  m_Layer: 0
+  m_Name: Localization
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &425028
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 184536}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114000012985339954
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 184536}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 502d8cafd6a5a0447ab1db9a24cdcb10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  data:
+  - key: deDE
+    gameObject: {fileID: 4900000, guid: 08037262849fcc04d8aa63a96d2da790, type: 3}
+  - key: enUS
+    gameObject: {fileID: 4900000, guid: d4e2101aaf38c5e49ae6bfe218f6a06b, type: 3}
+  - key: esES
+    gameObject: {fileID: 4900000, guid: c80848a038838d74eb20898af2c36164, type: 3}
+  - key: frFR
+    gameObject: {fileID: 4900000, guid: c87bf8740448acf4fab1534db91fe0c1, type: 3}
+  - key: itIT
+    gameObject: {fileID: 4900000, guid: 73bb7cea7a9837043b9e8ed4b317d7ee, type: 3}
+  - key: jaJP
+    gameObject: {fileID: 4900000, guid: d2294b22759f40c488072917eebb11c4, type: 3}
+  - key: koKR
+    gameObject: {fileID: 4900000, guid: 1d9899d833c027945ab0b07736ef6e8d, type: 3}
+  - key: ptPT
+    gameObject: {fileID: 4900000, guid: 3939e19c6446b9b4d94207215c863e3e, type: 3}
+  - key: ruRU
+    gameObject: {fileID: 4900000, guid: 4474002f90caee440bc5bc0466318c26, type: 3}
+  - key: zhCN
+    gameObject: {fileID: 4900000, guid: 81038dee99aecb748be52ab0bda29be5, type: 3}
+  - key: zhTW
+    gameObject: {fileID: 4900000, guid: 3e95039f709ae714b9be6c0233901505, type: 3}

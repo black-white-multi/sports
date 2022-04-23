@@ -47,6 +47,12 @@ namespace ET
                         ExcelExporter.Export();
                         return 0;
                     }
+                    case AppType.LocalizationExporter:
+                    {
+                        Game.Options.Console = 1;
+                        LocalizationExporter.Export();
+                        return 0;
+                    }
                     case AppType.Proto2CS:
                     {
                         Game.Options.Console = 1;

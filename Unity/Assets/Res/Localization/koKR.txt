@@ -1,0 +1,390 @@
+{"Key":"GLOBAL_BTN_VISITOR","Text":"게스트 로그인"}
+{"Key":"GLOBAL_BTN_ACCOUNT","Text":"계정 로그인"}
+{"Key":"GLOBAL_ACCOUNT","Text":"계좌 번호"}
+{"Key":"GLOBAL_PASSWORD1","Text":"암호"}
+{"Key":"GLOBAL_PASSWORD2","Text":"비밀번호 확인"}
+{"Key":"GLOBAL_REGISTER","Text":"등기"}
+{"Key":"GLOBAL_LOGIN","Text":"로그인"}
+{"Key":"GLOBAL_BTN_MATCHING","Text":"매칭 시작"}
+{"Key":"GLOBAL_MUSIC","Text":"음악"}
+{"Key":"GLOBAL_SOUND","Text":"음향 효과"}
+{"Key":"GLOBAL_OPEN","Text":"켜다"}
+{"Key":"GLOBAL_CLOSE","Text":"종료"}
+{"Key":"GLOBAL_SETTING","Text":"설정"}
+{"Key":"GLOBAL_LANGUAGE","Text":"언어"}
+{"Key":"GLOBAL_UPDATE_HISTORY","Text":"업데이트 내역"}
+{"Key":"GLOBAL_LOGOUT","Text":"계정 전환"}
+{"Key":"GLOBAL_MAIN_TOP1","Text":"챔피언"}
+{"Key":"GLOBAL_MAIN_TOP4","Text":"상위 4 회"}
+{"Key":"GLOBAL_RATING","Text":"등급"}
+{"Key":"GLOBAL_BTN_CARD","Text":"카드"}
+{"Key":"GLOBAL_MATCHING","Text":"어울리는"}
+{"Key":"GLOBAL_BTN_CANCEL","Text":"취소"}
+{"Key":"GLOBAL_BTN_SURE","Text":"확인"}
+{"Key":"GLOBAL_RANKING","Text":"리더 보드"}
+{"Key":"GLOBAL_SELECT_ICON","Text":"아바타 선택"}
+{"Key":"GLOBAL_SELECT_ROLE","Text":"역할 선택"}
+{"Key":"GLOBAL_CDTIME","Text":"남은 시간:{0}"}
+{"Key":"GLOBAL_BTN_RANDOM","Text":"무작위"}
+{"Key":"GLOBAL_BTN_SELECT","Text":"고르다"}
+{"Key":"GLOBAL_BTN_CREATE","Text":"창조하다"}
+{"Key":"GLOBAL_BTN_USE","Text":"사용하다"}
+{"Key":"GLOBAL_BTN_QUIT","Text":"그만두 다"}
+{"Key":"GLOBAL_CARD_SHOP","Text":"카드 스토어"}
+{"Key":"GLOBAL_BTN_UPGRADE","Text":"업그레이드"}
+{"Key":"GLOBAL_BTN_BUILD","Text":"토지 구매"}
+{"Key":"GLOBAL_BTN_BUY","Text":"토지 구매"}
+{"Key":"GLOBAL_BTN_EXCHANGE","Text":"교환"}
+{"Key":"GLOBAL_PRICE_INDEX","Text":"가격 지수:{0}"}
+{"Key":"GLOBAL_ROOT_LEVEL","Text":"등급"}
+{"Key":"GLOBAL_BUILD_SHOP","Text":"토지 구매, 쇼핑"}
+{"Key":"GLOBAL_ROOT_UPGRADE","Text":"업그레이드"}
+{"Key":"GLOBAL_COIN_TICKET","Text":"금화, 쿠폰"}
+{"Key":"GLOBAL_ROOT_EXP","Text":"경험 가치:{0}/{1}"}
+{"Key":"GLOBAL_RESOURCE_TYPE","Text":"자원 유형"}
+{"Key":"GLOBAL_LAND_PRICE","Text":"토지 가격"}
+{"Key":"GLOBAL_STREET","Text":"거리"}
+{"Key":"GLOBAL_RENT","Text":"임대"}
+{"Key":"GLOBAL_LEVEL_RENT","Text":"{0} 수준"}
+{"Key":"GLOBAL_EXCHANGE_RESOURCE","Text":"교환 자원"}
+{"Key":"GLOBAL_BTN_RESET","Text":"초기화"}
+{"Key":"GLOBAL_SELECT_RESOURCES","Text":"리소스 선택"}
+{"Key":"GLOBAL_CHOOSE_DICE_DOT","Text":"주사위 수 선택"}
+{"Key":"GLOBAL_INPUT_ACCOUNT_TIP","Text":"[color=#888888] 계좌 번호를 입력하십시오 [/color]"}
+{"Key":"GLOBAL_INPUT_PWD_TIP","Text":"[color=#888888] 비밀번호를 입력하세요 [/color]"}
+{"Key":"GLOBAL_LOGIN_ERROR","Text":"로그인 실패, 잘못된 계정 또는 비밀번호"}
+{"Key":"GLOBAL_REGISTER_ACCOUNT","Text":"귀하의 계정을 입력하십시오"}
+{"Key":"GLOBAL_REGISTER_NOSAME","Text":"일관되지 않은 암호"}
+{"Key":"GLOBAL_REGISTER_SUCCESS","Text":"등록 성공"}
+{"Key":"GLOBAL_ERR_NAMELENGTH","Text":"등록 실패, 계좌 번호는 6-20 자입니다."}
+{"Key":"GLOBAL_ERR_PASSWORDLENGTH","Text":"등록 실패, 비밀번호는 6-20 자입니다."}
+{"Key":"GLOBAL_ERR_PASSWORDILLEGAL","Text":"등록에 실패했습니다. 비밀번호에 잘못된 문자가 포함되어 있으며 문자와 숫자 만 포함되어 있습니다."}
+{"Key":"GLOBAL_ERR_ACCOUNT_EXIST","Text":"등록에 실패했습니다. 계정이 이미 있습니다."}
+{"Key":"GLOBAL_SWAPCARD_TIP","Text":"리소스를 교환하여 {0} 금화를 받으세요"}
+{"Key":"GLOBAL_SWAPCARD_ERR","Text":"잘못된 금액"}
+{"Key":"GLOBAL_CARDSHOP_TITLE","Text":"카드 스토어"}
+{"Key":"GLOBAL_CARDSHOP_SELL","Text":"카드 판매"}
+{"Key":"GLOBAL_CARDSHOP_MYCARD","Text":"내 카드"}
+{"Key":"GLOBAL_BTN_BUYCARD","Text":"구입"}
+{"Key":"GLOBAL_BTN_SELLCARD","Text":"팔다"}
+{"Key":"GLOBAL_USE_CARD","Text":"카드 사용"}
+{"Key":"GLOBAL_NETWORK_TITLE","Text":"네트워크 중단"}
+{"Key":"GLOBAL_NETWORK_DESC","Text":"서버와의 연결이 끊어졌습니다. 네트워크 연결을 확인하고 다시 시도하십시오."}
+{"Key":"GLOBAL_BTN_RETRY","Text":"다시 해 보다"}
+{"Key":"GLOBAL_VERSION_TITLE","Text":"버전 업데이트"}
+{"Key":"GLOBAL_BTN_UPDATE","Text":"즉시 업데이트"}
+{"Key":"GLOBAL_INPUT_NAME_TIP","Text":"이름을 입력하세요"}
+{"Key":"GLOBAL_ERR_NICKNAMEEXIST","Text":"이미 존재하는 이름입니다."}
+{"Key":"GLOBAL_ERR_NICKNAMEILLEGAL","Text":"이름은 문자 만 포함 할 수 있습니다."}
+{"Key":"GLOBAL_ERR_NICKNAMENUMBER","Text":"이름은 순수한 숫자 일 수 없습니다."}
+{"Key":"GLOBAL_ERR_NICKNAMEVIOLATION","Text":"이 이름에는 불쾌감을주는 콘텐츠가 포함되어 있습니다."}
+{"Key":"GLOBAL_ERR_NICKNAMELENGTH10","Text":"이름의 길이는 3-12로 제한됩니다."}
+{"Key":"GLOBAL_ERR_NICKNAMELENGTH7","Text":"이름의 길이는 3-7로 제한됩니다."}
+{"Key":"GLOBAL_BTN_RULE","Text":"규칙 설명"}
+{"Key":"GLOBAL_SETTLEMENT_RANK","Text":"아니요. {0}"}
+{"Key":"GLOBAL_SETTLEMENT_TIP1","Text":"행운을 빕니다, 오늘 밤 치킨 먹으세요!"}
+{"Key":"GLOBAL_SETTLEMENT_TIP2","Text":"끈질 기게 노력하고 다음에 치킨 먹어!"}
+{"Key":"GLOBAL_UPGRADE_ERR_TIP","Text":"업그레이드 할 리소스가 부족합니다."}
+{"Key":"GLOBAL_BUYLAND_ERR_TIP","Text":"토지 구매 실패 <img src ='ui://UIRichMan/icon_element_1' width ='20' height ='20'/><img src ='ui://UIRichMan/icon_element_2' width ='20' height ='20'/><img src ='ui://UIRichMan/icon_element_3' width ='20' height ='20'/><img src ='ui://UIRichMan/icon_element_4' width ='20' height ='20'/>"}
+{"Key":"GLOBAL_BUYLAND_LV_ERR_TIP","Text":"토지 구매, 레벨 증가 및 더 많은 토지 구매 실패"}
+{"Key":"GLOBAL_BUILDUP_ERR_TIP","Text":"건물 업그레이드 실패 <img src ='ui://UIRichMan/icon_element_3' width ='20' height ='20'/><img src ='ui://UIRichMan/icon_element_4' width ='20' height ='20'/><img src ='ui://UIRichMan/icon_element_5' width ='20' height ='20'/>"}
+{"Key":"GLOBAL_BTN_APPLE_LOGIN","Text":"Apple로 로그인"}
+{"Key":"GLOBAL_ERR_APPLE_LOGIN_VERSION","Text":"이 시스템 버전에서는 Apple 로그인을 사용할 수 없습니다."}
+{"Key":"GLOBAL_ROOM_BTN_HALL","Text":"자체 지은 집"}
+{"Key":"GLOBAL_ROOM_TITLE_LIST","Text":"방 목록"}
+{"Key":"GLOBAL_ROOM_BTN_REFRESH","Text":"새롭게 하다"}
+{"Key":"GLOBAL_ROOM_BTN_CREATE","Text":"창조하다"}
+{"Key":"GLOBAL_ROOM_TITLE_CREATE","Text":"방 만들기"}
+{"Key":"GLOBAL_ROOM_NAME","Text":"방 이름"}
+{"Key":"GLOBAL_ROOM_MODE","Text":"객실 종류"}
+{"Key":"GLOBAL_ROOM_SHOWHIDE","Text":"보이나요"}
+{"Key":"GLOBAL_ROOM_PASSWORD","Text":"방 비밀번호"}
+{"Key":"GLOBAL_ROOM_TITLE_CUSTOM","Text":"커스텀 룸"}
+{"Key":"GLOBAL_ROOM_PEOPLE","Text":"인원 수:{0}/{1}"}
+{"Key":"GLOBAL_ROOM_BTN_ADDIA","Text":"AI 추가"}
+{"Key":"GLOBAL_ROOM_BTN_START","Text":"게임을 시작하다"}
+{"Key":"GLOBAL_SETTING_SCREEN_FULL","Text":"전체 화면"}
+{"Key":"GLOBAL_ROOM_BTN_JOIN","Text":"붙다"}
+{"Key":"GLOBAL_ROOM_TITLE_NO","Text":"방 번호"}
+{"Key":"GLOBAL_ROOM_TITLE_NAME","Text":"방 이름"}
+{"Key":"GLOBAL_ROOM_TITLE_MODE","Text":"방법"}
+{"Key":"GLOBAL_ROOM_TITLE_PEOPLE","Text":"사람들의 수"}
+{"Key":"GLOBAL_ROOM_TIP_NODATA","Text":"방 없음"}
+{"Key":"GLOBAL_ROOM_TIP_NAME","Text":"[color=#888888] 방 이름을 입력하세요 [/color]"}
+{"Key":"GLOBAL_ROOM_TIP_NOPASSWORD","Text":"[color=#888888] 비밀번호 없음 [/color]"}
+{"Key":"GLOBAL_ROOM_TITLE_NOTXT","Text":"방 번호:{0}"}
+{"Key":"GLOBAL_ROOM_ROBOT","Text":"로봇"}
+{"Key":"GLOBAL_ROOM_WAIT_PLAYER","Text":"가입 대기 중"}
+{"Key":"GLOBAL_ROOM_BTN_READY","Text":"{0} 준비"}
+{"Key":"GLOBAL_ROOM_BTN_UNREADY","Text":"준비 취소"}
+{"Key":"GLOBAL_RECONNECTBATTLE_TITLE","Text":"다시 연결"}
+{"Key":"GLOBAL_RECONNECTBATTLE_DESC","Text":"연결 해제로 인해 마지막 게임이 중단되었습니다. 다시 연결 중 ..."}
+{"Key":"GLOBAL_ROOM_MODE_CASUAL","Text":"캐주얼 모드"}
+{"Key":"GLOBAL_ROOM_MODE_RANK","Text":"랭킹 모드"}
+{"Key":"GLOBAL_ROOM_STATE_VISIBLE","Text":"명백한"}
+{"Key":"GLOBAL_ROOM_STATE_HIDDEN","Text":"숨는 장소"}
+{"Key":"GLOBAL_ROOM_TITLE_JION","Text":"방에 참여"}
+{"Key":"GLOBAL_JOINROOM_ERR_NOTEXIST","Text":"참여하지 못했습니다. 회의실이 없습니다."}
+{"Key":"GLOBAL_JOINROOM_ERR_PASSWORD","Text":"가입 실패, 잘못된 비밀번호"}
+{"Key":"GLOBAL_JOINROOM_ERR_PEOPLEFULL","Text":"참여하지 못했습니다. 회의실이 가득 찼습니다."}
+{"Key":"GLOBAL_GAME_MENU","Text":"게임 메뉴"}
+{"Key":"GLOBAL_BTN_CONCEDE","Text":"양보하다"}
+{"Key":"GLOBAL_ROOM_BTN_SOLO","Text":"개인"}
+{"Key":"GLOBAL_ROOM_MODE_SOLO","Text":"싱글 플레이어 모드"}
+{"Key":"GLOBAL_ROOM_TITLE_SOLO","Text":"싱글 플레이어 모드"}
+{"Key":"GLOBAL_UNLOCK_FEATURE_TIP","Text":"멀티 플레이어 게임을 플레이하려면이 기능을 잠금 해제하십시오."}
+{"Key":"GLOBAL_UNLOCK_FEATURE_BUY_TIP","Text":"이 기능을 잠금 해제하려면 공식 버전을 구입해야합니다."}
+{"Key":"GLOBAL_ACCOUNT_TITLE","Text":"로그인"}
+{"Key":"GLOBAL_ACCOUNT_LOST_PASSWORD","Text":"비밀번호 분실"}
+{"Key":"GLOBAL_ACCOUNT_CREATE","Text":"계정 생성"}
+{"Key":"GLOBAL_ACCOUNT_EMAIL","Text":"이메일"}
+{"Key":"GLOBAL_ACCOUNT_ENTER_EMAIL","Text":"[color=#888888]이메일을 입력하세요[/color]"}
+{"Key":"GLOBAL_ACCOUNT_HAVE","Text":"나는 이미 계정을 갖고있다"}
+{"Key":"GLOBAL_BTN_SUBMIT","Text":"제출"}
+{"Key":"GLOBAL_ACCOUNT_RESET_TITLE","Text":"암호를 재설정"}
+{"Key":"GLOBAL_ACCOUNT_RESET_TIP","Text":"등록 된 이메일 주소를 입력하시면 비밀번호 재설정을 도와 드리겠습니다."}
+{"Key":"GLOBAL_ACCOUNT_ERR_01","Text":"잘못된 사용자 이름 또는 비밀번호"}
+{"Key":"GLOBAL_ACCOUNT_ERR_02","Text":"잘못된 이메일 주소"}
+{"Key":"GLOBAL_ACCOUNT_ERR_03","Text":"사용자 이름은 3 ~ 20 자 사이 여야합니다."}
+{"Key":"GLOBAL_ACCOUNT_ERR_04","Text":"사용자 이름에 잘못된 문자가 있습니다."}
+{"Key":"GLOBAL_ACCOUNT_ERR_05","Text":"사용자 이름이 이미 존재합니다."}
+{"Key":"GLOBAL_ACCOUNT_ERR_06","Text":"비밀번호는 6 ~ 100 자 사이 여야합니다."}
+{"Key":"GLOBAL_ACCOUNT_ERR_07","Text":"이메일 주소가 유효하지 않습니다."}
+{"Key":"GLOBAL_ACCOUNT_ERR_08","Text":"이메일 주소가 이미 존재합니다."}
+{"Key":"GLOBAL_ACCOUNT_CREATE_TIP","Text":"데이터를 저장하려면 계정을 만드세요!"}
+{"Key":"GLOBAL_BTN_LOGIN_EMAIL","Text":"이메일로 로그인"}
+{"Key":"GLOBAL_BTN_LOGIN_APPLE","Text":"Apple로 로그인"}
+{"Key":"GLOBAL_DIAMOND_NOT_TIP","Text":"다이아몬드 부족"}
+{"Key":"GLOBAL_CHAT_TITLE","Text":"잡담"}
+{"Key":"GLOBAL_CHAT_INPUT_TIP","Text":"입력 해주세요"}
+{"Key":"GLOBAL_CHAT_BTN_SEND","Text":"보내다"}
+{"Key":"GLOBAL_BOXREWARD_TIP","Text":"얻다"}
+{"Key":"GLOBAL_BTN_CARD_REFRESH","Text":"새롭게 하다"}
+{"Key":"GLOBAL_ROOM_UNREADY","Text":"준비 중"}
+{"Key":"GLOBAL_ROOM_READY","Text":"준비된"}
+{"Key":"LANDCONFIG_NAME_1001","Text":"마닐라"}
+{"Key":"LANDCONFIG_NAME_1002","Text":"방콕"}
+{"Key":"LANDCONFIG_NAME_1003","Text":"자카르타"}
+{"Key":"LANDCONFIG_NAME_1004","Text":"뉴 델리"}
+{"Key":"LANDCONFIG_NAME_1005","Text":"로마"}
+{"Key":"LANDCONFIG_NAME_1006","Text":"마드리드"}
+{"Key":"LANDCONFIG_NAME_1007","Text":"토론토"}
+{"Key":"LANDCONFIG_NAME_1008","Text":"로마"}
+{"Key":"LANDCONFIG_NAME_1009","Text":"로스 앤젤레스"}
+{"Key":"LANDCONFIG_NAME_1010","Text":"샌프란시스코"}
+{"Key":"LANDCONFIG_NAME_1011","Text":"모스크바"}
+{"Key":"LANDCONFIG_NAME_1012","Text":"서울"}
+{"Key":"LANDCONFIG_NAME_1013","Text":"타이페이"}
+{"Key":"LANDCONFIG_NAME_1014","Text":"베이징"}
+{"Key":"LANDCONFIG_NAME_1015","Text":"시드니"}
+{"Key":"LANDCONFIG_NAME_1016","Text":"두바이"}
+{"Key":"LANDCONFIG_NAME_1017","Text":"파리"}
+{"Key":"LANDCONFIG_NAME_1018","Text":"상하이"}
+{"Key":"LANDCONFIG_NAME_1019","Text":"홍콩"}
+{"Key":"LANDCONFIG_NAME_1020","Text":"도쿄"}
+{"Key":"LANDCONFIG_NAME_1021","Text":"런던"}
+{"Key":"LANDCONFIG_NAME_1022","Text":"뉴욕"}
+{"Key":"ROLECONFIG_NAME_1","Text":"중국 인형"}
+{"Key":"ROLECONFIG_NAME_2","Text":"학생"}
+{"Key":"ROLECONFIG_NAME_3","Text":"하녀"}
+{"Key":"ROLECONFIG_NAME_4","Text":"관광 가이드"}
+{"Key":"ROLECONFIG_NAME_5","Text":"나쁜 소년"}
+{"Key":"ROLECONFIG_NAME_6","Text":"고양이 새끼"}
+{"Key":"ROLECONFIG_NAME_7","Text":"여전사"}
+{"Key":"ROLECONFIG_NAME_8","Text":"공주님"}
+{"Key":"ROLECONFIG_NAME_9","Text":"여성 에이전트"}
+{"Key":"ROLECONFIG_NAME_10","Text":"빨간 망토"}
+{"Key":"ROLECONFIG_NAME_11","Text":"원래 소녀"}
+{"Key":"ROLECONFIG_NAME_12","Text":"작은 악마"}
+{"Key":"ROLECONFIG_NAME_13","Text":"쥬얼리 타이쿤"}
+{"Key":"ROLECONFIG_NAME_14","Text":"요리사"}
+{"Key":"ROLECONFIG_NAME_15","Text":"선장"}
+{"Key":"ROLECONFIG_NAME_16","Text":"도시 관리"}
+{"Key":"ROLECONFIG_NAME_17","Text":"배관공"}
+{"Key":"ROLECONFIG_NAME_18","Text":"의사들"}
+{"Key":"ROLECONFIG_NAME_19","Text":"돼지 살인자"}
+{"Key":"ROLECONFIG_NAME_20","Text":"나무꾼"}
+{"Key":"ROLECONFIG_NAME_21","Text":"성직자"}
+{"Key":"ROLECONFIG_NAME_22","Text":"해적"}
+{"Key":"ROLECONFIG_NAME_23","Text":"엑소시스트"}
+{"Key":"ROLECONFIG_NAME_24","Text":"대통령"}
+{"Key":"ROLECONFIG_NAME_25","Text":"부자 여자"}
+{"Key":"ROLECONFIG_NAME_26","Text":"선생님"}
+{"Key":"ROLECONFIG_NAME_27","Text":"기내 안내"}
+{"Key":"ROLECONFIG_NAME_28","Text":"부드러운 모델"}
+{"Key":"ROLECONFIG_NAME_29","Text":"가수"}
+{"Key":"ROLECONFIG_NAME_30","Text":"조종사"}
+{"Key":"ROLECONFIG_NAME_31","Text":"캣우먼"}
+{"Key":"ROLECONFIG_NAME_32","Text":"특별한 부대"}
+{"Key":"ROLECONFIG_NAME_33","Text":"토끼 소녀"}
+{"Key":"ROLECONFIG_NAME_34","Text":"스네이크 스피릿"}
+{"Key":"ROLECONFIG_NAME_35","Text":"마녀"}
+{"Key":"ROLECONFIG_NAME_36","Text":"첩"}
+{"Key":"ROLECONFIG_NAME_37","Text":"유행을 좇는 사람"}
+{"Key":"ROLECONFIG_NAME_38","Text":"복서"}
+{"Key":"ROLECONFIG_NAME_39","Text":"경찰"}
+{"Key":"ROLECONFIG_NAME_40","Text":"마술사"}
+{"Key":"ROLECONFIG_NAME_41","Text":"닌자"}
+{"Key":"ROLECONFIG_NAME_42","Text":"화가"}
+{"Key":"ROLECONFIG_NAME_43","Text":"원래 형제"}
+{"Key":"ROLECONFIG_NAME_44","Text":"왕자"}
+{"Key":"ROLECONFIG_NAME_45","Text":"작은 해적"}
+{"Key":"ROLECONFIG_NAME_46","Text":"형사"}
+{"Key":"ROLECONFIG_NAME_47","Text":"카우보이"}
+{"Key":"ROLECONFIG_NAME_48","Text":"슈퍼맨"}
+{"Key":"ROLECONFIG_NAME_49","Text":"농장주"}
+{"Key":"ROLECONFIG_NAME_50","Text":"화난 청소년"}
+{"Key":"ROLECONFIG_NAME_51","Text":"가게 주인"}
+{"Key":"ROLECONFIG_NAME_52","Text":"건방진 녀석"}
+{"Key":"ROLECONFIG_NAME_53","Text":"기사도 소녀"}
+{"Key":"ROLECONFIG_NAME_54","Text":"코트 레이디"}
+{"Key":"ROLECONFIG_NAME_55","Text":"황제"}
+{"Key":"ROLECONFIG_NAME_56","Text":"하계"}
+{"Key":"ROLECONFIG_NAME_57","Text":"혼합"}
+{"Key":"ROLECONFIG_NAME_58","Text":"거지 갱"}
+{"Key":"ROLECONFIG_NAME_59","Text":"플레이어"}
+{"Key":"ROLECONFIG_NAME_60","Text":"교수"}
+{"Key":"ROLECONFIG_NAME_61","Text":"특히 잘하는"}
+{"Key":"ROLECONFIG_NAME_62","Text":"고양이"}
+{"Key":"ROLECONFIG_NAME_63","Text":"왕 싱런"}
+{"Key":"ROLECONFIG_NAME_64","Text":"아홉개의 꼬리를 가진 여우"}
+{"Key":"ROLECONFIG_NAME_65","Text":"탐침"}
+{"Key":"ROLECONFIG_NAME_66","Text":"배우"}
+{"Key":"ROLECONFIG_NAME_67","Text":"간호사"}
+{"Key":"EVENTS_CONFIG_DESC_1","Text":"길가에서 {CASH} 금화를 주웠습니다."}
+{"Key":"EVENTS_CONFIG_DESC_2","Text":"도둑이 집에 침입하여 {CASH} 금화를 잃었습니다."}
+{"Key":"EVENTS_CONFIG_DESC_3","Text":"자기장으로 인해지도 방향이 혼란스러워졌고 그는 돌아섰습니다."}
+{"Key":"EVENTS_CONFIG_DESC_4","Text":"술에 취해 도랑에 빠져 30 초 동안 입원"}
+{"Key":"EVENTS_CONFIG_DESC_5","Text":"길가 주차는 30 초 동안 감옥에 갇혔다"}
+{"Key":"EVENTS_CONFIG_DESC_6","Text":"지나가는 아이를 괴롭 히고 금화 {CASH} 벌금형"}
+{"Key":"EVENTS_CONFIG_DESC_7","Text":"할머니가 길을 건너고 {CASH} 금화를받을 수 있도록 도와주세요."}
+{"Key":"EVENTS_CONFIG_DESC_8","Text":"집은 충분히 높지 않았고 정부는 건물에 1 층을 추가하는 것을 도왔습니다."}
+{"Key":"EVENTS_CONFIG_DESC_9","Text":"뛰어난 기술, 스토어 리베이트 {TICKET} 쿠폰을 받으세요."}
+{"Key":"EVENTS_CONFIG_DESC_10","Text":"그는 강도를 당했고 {TICKET} 점을 잃었습니다."}
+{"Key":"EVENTS_CONFIG_DESC_11","Text":"카드 상점에서 더블 11 프로모션에서 카드를 받으십시오."}
+{"Key":"CARD_CONFIG_NAME_1001","Text":"1 단계"}
+{"Key":"CARD_CONFIG_NAME_1002","Text":"2 단계"}
+{"Key":"CARD_CONFIG_NAME_1003","Text":"3 단계"}
+{"Key":"CARD_CONFIG_NAME_1004","Text":"4 단계"}
+{"Key":"CARD_CONFIG_NAME_1005","Text":"5 단계"}
+{"Key":"CARD_CONFIG_NAME_1006","Text":"스티어링"}
+{"Key":"CARD_CONFIG_NAME_1007","Text":"로봇 인형"}
+{"Key":"CARD_CONFIG_NAME_1008","Text":"무료"}
+{"Key":"CARD_CONFIG_NAME_1009","Text":"가격 인상"}
+{"Key":"CARD_CONFIG_NAME_1010","Text":"토지 교환"}
+{"Key":"CARD_CONFIG_NAME_1011","Text":"제발 갓"}
+{"Key":"CARD_CONFIG_NAME_1012","Text":"기프트"}
+{"Key":"CARD_CONFIG_NAME_1013","Text":"토지 구입I"}
+{"Key":"CARD_CONFIG_NAME_1014","Text":"건설"}
+{"Key":"CARD_CONFIG_NAME_1015","Text":"압수"}
+{"Key":"CARD_CONFIG_NAME_1016","Text":"세금 체크"}
+{"Key":"CARD_CONFIG_NAME_1017","Text":"나쁜 개"}
+{"Key":"CARD_CONFIG_NAME_1018","Text":"지진"}
+{"Key":"CARD_CONFIG_NAME_1019","Text":"로드 호그"}
+{"Key":"CARD_CONFIG_NAME_1020","Text":"공급 업체"}
+{"Key":"CARD_CONFIG_NAME_1021","Text":"시한 폭탄"}
+{"Key":"CARD_CONFIG_NAME_1022","Text":"지뢰"}
+{"Key":"CARD_CONFIG_NAME_1023","Text":"희망찬 주사위"}
+{"Key":"CARD_CONFIG_NAME_1024","Text":"스테이"}
+{"Key":"CARD_CONFIG_NAME_1025","Text":"로드 블록"}
+{"Key":"CARD_CONFIG_NAME_1026","Text":"거북이"}
+{"Key":"CARD_CONFIG_NAME_1027","Text":"스텔스"}
+{"Key":"CARD_CONFIG_NAME_1028","Text":"전송"}
+{"Key":"CARD_CONFIG_NAME_1029","Text":"액자"}
+{"Key":"CARD_CONFIG_NAME_1030","Text":"몽유병"}
+{"Key":"CARD_CONFIG_NAME_1031","Text":"스내치"}
+{"Key":"CARD_CONFIG_NAME_1032","Text":"복수"}
+{"Key":"CARD_CONFIG_NAME_1033","Text":"보호"}
+{"Key":"CARD_CONFIG_NAME_1034","Text":"면제"}
+{"Key":"CARD_CONFIG_NAME_1035","Text":"강제  제거"}
+{"Key":"CARD_CONFIG_NAME_1036","Text":"금화"}
+{"Key":"CARD_CONFIG_NAME_1037","Text":"수확"}
+{"Key":"CARD_CONFIG_NAME_1038","Text":"수평"}
+{"Key":"CARD_CONFIG_NAME_1039","Text":"토지 구입II"}
+{"Key":"CARD_CONFIG_NAME_1040","Text":"강도"}
+{"Key":"CARD_CONFIG_DESC_1001","Text":"사용 후 주사위 점수는 1입니다."}
+{"Key":"CARD_CONFIG_DESC_1002","Text":"사용 후 주사위 점수는 2 점입니다."}
+{"Key":"CARD_CONFIG_DESC_1003","Text":"사용 후 주사위 점수는 3 점입니다."}
+{"Key":"CARD_CONFIG_DESC_1004","Text":"사용 후 주사위 점수는 4 점입니다."}
+{"Key":"CARD_CONFIG_DESC_1005","Text":"사용 후 주사위 점수는 5 점입니다."}
+{"Key":"CARD_CONFIG_DESC_1006","Text":"사용 후 역방향"}
+{"Key":"CARD_CONFIG_DESC_1007","Text":"전방 3 개 블록에있는 모든 장애물 제거"}
+{"Key":"CARD_CONFIG_DESC_1008","Text":"통행료가 큰 경우 50 % 감면"}
+{"Key":"CARD_CONFIG_DESC_1009","Text":"6 블록 이내의 건물을 선택하여 200 % 충전"}
+{"Key":"CARD_CONFIG_DESC_1010","Text":"타인의 토지에 머무를 경우 6 블럭 이내 같은 면적의 토지를 선택하여 소유권 교환"}
+{"Key":"CARD_CONFIG_DESC_1011","Text":"6 블럭 내에서 가장 가까운 요정이 소유"}
+{"Key":"CARD_CONFIG_DESC_1012","Text":"신을 떠나게"}
+{"Key":"CARD_CONFIG_DESC_1013","Text":"해당 위치에서 상대방의 건물을 구입하고 건물 레벨이 5 미만입니다."}
+{"Key":"CARD_CONFIG_DESC_1014","Text":"자신의 건물을 레벨 1로 업그레이드"}
+{"Key":"CARD_CONFIG_DESC_1015","Text":"1 라운드 충전을 중지하려면 6 칸 이내의 건물을 선택하세요."}
+{"Key":"CARD_CONFIG_DESC_1016","Text":"3 칸에서 상대를 선택하고 10 % 돈을 청구하세요"}
+{"Key":"CARD_CONFIG_DESC_1017","Text":"사악한 개를 배치하고, 사악한 개를 밟으면 30 초 동안 입원해야합니다."}
+{"Key":"CARD_CONFIG_DESC_1018","Text":"3 칸 이내의 건물을 선택하여 1 단계 낮 춥니 다."}
+{"Key":"CARD_CONFIG_DESC_1019","Text":"3 칸 내에서 상대방의 건물을 선택하고 다음 통행료를 청구합니다. 그 위에 밟으면 통행료가 면제됩니다."}
+{"Key":"CARD_CONFIG_DESC_1020","Text":"작은 상인을 소환하고 카드를 구입하십시오."}
+{"Key":"CARD_CONFIG_DESC_1021","Text":"시한 폭탄을 설치하고 폭발 후 30 초 동안 입원하십시오."}
+{"Key":"CARD_CONFIG_DESC_1022","Text":"지뢰를 배치하려면 3 칸 내에서 열린 공간을 선택하고 캐릭터는 20 초 동안 입원해야합니다."}
+{"Key":"CARD_CONFIG_DESC_1023","Text":"1-6 개의 주사위 점수를 선택하십시오"}
+{"Key":"CARD_CONFIG_DESC_1024","Text":"사용 후 1 라운드 유지"}
+{"Key":"CARD_CONFIG_DESC_1025","Text":"장애물을 놓고 지나갈 때 캐릭터가 머물도록 강제하십시오"}
+{"Key":"CARD_CONFIG_DESC_1026","Text":"사용 후 3 회 연속 1 걸음 걷기"}
+{"Key":"CARD_CONFIG_DESC_1027","Text":"1 라운드 동안 보이지 않음, 통행료 무료"}
+{"Key":"CARD_CONFIG_DESC_1028","Text":"무작위로 상대 위치로 순간 이동"}
+{"Key":"CARD_CONFIG_DESC_1029","Text":"3 칸에서 상대를 선택하고 3 라운드 동안 가두세요"}
+{"Key":"CARD_CONFIG_DESC_1030","Text":"3 칸 내의 상대를 선택하여 2 라운드 동안 몽유병합니다."}
+{"Key":"CARD_CONFIG_DESC_1031","Text":"3 칸 안에있는 상대를 선택하고 카드 1 장을 무작위로 빼앗습니다."}
+{"Key":"CARD_CONFIG_DESC_1032","Text":"세금 카드를 확인하고 처벌을 상대방에게 이관하는 면제"}
+{"Key":"CARD_CONFIG_DESC_1033","Text":"2 라운드 이내에 시한 폭탄, 지뢰, 사악한 개를 물 리치십시오."}
+{"Key":"CARD_CONFIG_DESC_1034","Text":"구금 면제"}
+{"Key":"CARD_CONFIG_DESC_1035","Text":"상대의 건물이 1 감소합니다."}
+{"Key":"CARD_CONFIG_DESC_1036","Text":"무작위로 3000-4000 금화 획득"}
+{"Key":"CARD_CONFIG_DESC_1037","Text":"두 개의 리소스를 가져옵니다. 리소스 유형은 사용자가 지정합니다."}
+{"Key":"CARD_CONFIG_DESC_1038","Text":"경험치 2 점 레벨 업"}
+{"Key":"CARD_CONFIG_DESC_1039","Text":"건물 레벨에 제한없이 위치에서 상대의 건물을 구입하십시오."}
+{"Key":"CARD_CONFIG_DESC_1040","Text":"강도를 배치하고 상대방에게서 티켓 30 장을 모으십시오. 총 3 회"}
+{"Key":"RULE_STR_001","Text":"게임 규칙"}
+{"Key":"RULE_STR_002","Text":"개요"}
+{"Key":"RULE_STR_003","Text":"Number One Rich는 8 인 전투 전략 게임입니다. 플레이어는 게임을 시작할 때 금화를 얻고 운을 사용하여 주사위를 굴리고 토지를 구입하고 건물을 지어서 임대료를 얻습니다. 플레이어는 게임에서 다른 플레이어를 파산시키고 남은 마지막 플레이어가 승자입니다."}
+{"Key":"RULE_STR_004","Text":"승리"}
+{"Key":"RULE_STR_005","Text":"승리하는 것은 어렵지 않습니다. 토지를 구입하고, 건물을 업그레이드하고, 임대료를 부과하여 다른 플레이어를 파산시킵니다."}
+{"Key":"RULE_STR_006","Text":"게임 흐름"}
+{"Key":"RULE_STR_007","Text":"Number One Rich는 실시간 게임입니다. 에너지 회수를 통해 주사위를 던지면 땅을 사서 머무는 곳에 건물을 지을 수 있으며 다른 플레이어의 땅을 지나갈 때 임대료를 지불해야합니다. 플레이어는 포인트 바우처를 사용하여 카드 상점에서 카드 소품을 구매할 수 있으며 카드 소품을 사용하는 것도 승리를위한 중요한 전략입니다."}
+{"Key":"RULE_STR_101","Text":"지도 소개"}
+{"Key":"RULE_STR_102","Text":"맵에는 고정 된 무작위 이벤트 트리거 포인트, 카드 상점, 쿠폰, 건물 및 자원 메커니즘 포인트가 포함되어 있습니다."}
+{"Key":"RULE_STR_103","Text":"나라"}
+{"Key":"RULE_STR_104","Text":"플레이어는 <img src ='ui://UIRichMan/icon_element_1' width ='20' height ='20'/><img src ='ui://UIRichMan/icon_element_2' width ='20' height ='20'/><img src ='ui://UIRichMan/icon_element_3' width ='20' height ='20'/><img src ='ui://UIRichMan/icon_element_4' width ='20' height ='20'/> 집을 짓기 위해 토지 구입"}
+{"Key":"RULE_STR_105","Text":"카드 스토어"}
+{"Key":"RULE_STR_106","Text":"1. 플레이어가이 포인트를 밟으면 포인트를 사용하여 카드 아이템을 구매할 수 있습니다.\n2. 레벨 6에 도달 한 후 플레이어는 <img src ='ui://UIRichMan/icon_element_1' width ='20' height ='20'/><img src ='ui://UIRichMan/icon_element_2' width ='20' height ='20'/><img src ='ui://UIRichMan/icon_element_3' width ='20' height ='20'/><img src ='ui://UIRichMan/icon_element_4' width ='20' height ='20'/> 카드 스토어를 엽니 다."}
+{"Key":"RULE_STR_107","Text":"포인트 쿠폰"}
+{"Key":"RULE_STR_108","Text":"플레이어는 해당 가치 포인트를 얻습니다."}
+{"Key":"RULE_STR_109","Text":"무작위 이벤트"}
+{"Key":"RULE_STR_110","Text":"입원, 교도소 입장, 금화, 포인트, 카드 및 기타 소품 획득과 같은 이벤트를 무작위로 트리거합니다."}
+{"Key":"RULE_STR_111","Text":"리소스 메커니즘 지점"}
+{"Key":"RULE_STR_112","Text":"플레이어가 밟은 후 총 자원이 7 이상이면 자원의 절반이 무작위로 폐기됩니다. 총 자원량이 7 미만이면 무작위로 자원을 얻습니다. 리소스 수가 7이면 효과가 발생하지 않습니다."}
+{"Key":"RULE_STR_113","Text":"병원/교도소"}
+{"Key":"RULE_STR_114","Text":"플레이어가 입원하거나 수감되면 임대료와 자원을 얻을 수 없으며 일정 시간이 지나면 자동으로 풀려납니다."}
+{"Key":"RULE_STR_115","Text":"불멸"}
+{"Key":"RULE_STR_116","Text":"정기적으로 신은지도에서 무작위로 새로 고쳐집니다."}
+{"Key":"RULE_STR_201","Text":"리소스 설명"}
+{"Key":"RULE_STR_202","Text":"금화 <img src ='ui://UIRichMan/icon_128_cash' width ='30' height ='30'/>"}
+{"Key":"RULE_STR_203","Text":"게임 시작시 플레이어가 초기 금화를 획득 한 후 임대료를 모으거나 자원을 교환하거나 임의의 이벤트를 트리거하여 획득 할 수 있습니다. 금화가 0이되면 파산합니다."}
+{"Key":"RULE_STR_204","Text":"포인트 쿠폰 <img src ='ui://UIRichMan/icon_ticket' width ='30' height ='30'/>"}
+{"Key":"RULE_STR_205","Text":"포인트 소모, 카드 샵에서 카드 아이템 구매 가능"}
+{"Key":"RULE_STR_206","Text":"리소스 <img src ='ui://UIRichMan/icon_element_1' width ='30' height ='30'/><img src ='ui://UIRichMan/icon_element_2' width ='30' height ='30'/><img src ='ui://UIRichMan/icon_element_3' width ='30' height ='30'/><img src ='ui://UIRichMan/icon_element_4' width ='30' height ='30'/><img src ='ui://UIRichMan/icon_element_5' width ='30' height ='30'/>"}
+{"Key":"RULE_STR_207","Text":"집을 짓고 업그레이드하는 데 사용할 수있는 5 가지 자원, 금화로 교환, 포인트 쿠폰"}
+{"Key":"RULE_STR_208","Text":"시스템 리소스 교환"}
+{"Key":"RULE_STR_209","Text":"플레이어는 초과 자원을 필요한 다른 자원으로 교환 할 수 있습니다.\n 비율은 4:1이며 자원 교환을 통해 금화를 얻을 수 있습니다."}
+{"Key":"RULE_STR_210","Text":"금화와 쿠폰을위한 자원 교환"}
+{"Key":"RULE_STR_211","Text":"플레이어는 자원을 소비하고 금화 또는 포인트 쿠폰을 교환 할 수 있습니다."}
+{"Key":"RULE_STR_301","Text":"용어 사전"}
+{"Key":"RULE_STR_302","Text":"Number One Rich에서 사용되는 용어와 개념에 대한 자세한 설명을 제공합니다."}
+{"Key":"RULE_STR_303","Text":"플레이어 레벨 <img src ='ui://UIRichMan/icon_128_rate_6' width ='30' height ='30'/>"}
+{"Key":"RULE_STR_304","Text":"6 개의 플레이어 레벨이 있으며 플레이어는 <img src ='ui://UIRichMan/icon_element_1' width ='20' height ='20'/><img src ='ui://UIRichMan/icon_element_2' width ='20' height ='20'/> 레벨을 올립니다.\n 레벨이 올라갈 때마다 건물을 하나 더 구매할 수 있습니다. 레벨에 도달 한 후 구매할 수있는 건물의 수에는 제한이 없습니다."}
+{"Key":"RULE_STR_305","Text":"물가 지수"}
+{"Key":"RULE_STR_306","Text":"플레이어 레벨이 올라감에 따라 물가 지수가 올라갑니다.\n 가격 지수가 높을수록 임대 수입이 높아집니다."}
+{"Key":"RULE_STR_307","Text":"건물 등급"}
+{"Key":"RULE_STR_308","Text":"5 단계의 건물 레벨이 있습니다.\n 토지 구입 <img src ='ui://UIRichMan/icon_element_1' width ='20' height ='20'/><img src ='ui://UIRichMan/icon_element_2' width =' 20' height ='20'/><img src ='ui://UIRichMan/icon_element_3' width ='20' height ='20'/><img src ='ui://UIRichMan/icon_element_4' width =' 20' height ='20'/>\n 건물 업그레이드 <img src ='ui://UIRichMan/icon_element_3' width ='20' height ='20'/><img src ='ui://UIRichMan/icon_element_4' width ='20' height ='20'/><img src ='ui://UIRichMan/icon_element_5' width ='20' height ='20'/>"}
+{"Key":"RULE_STR_309","Text":"땅의 행"}
+{"Key":"RULE_STR_310","Text":"플레이어가 같은 색의 땅을 두 개 이상 점유하면 한 줄을 형성하고, 어떤 줄의 땅을 지나가는 다른 플레이어는 땅 줄에 대한 임대료와 자원을 모을 수 있습니다."}
+{"Key":"RULE_STR_311","Text":"주사위 에너지"}
+{"Key":"RULE_STR_312","Text":"플레이어는 주사위를 사용하기 전에 일정량의 에너지를 축적해야하며, 에너지가 넘치면 자동으로 주사위를 굴립니다."}

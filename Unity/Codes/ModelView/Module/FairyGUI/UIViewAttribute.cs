@@ -5,11 +5,14 @@ namespace ET
 	[AttributeUsage(AttributeTargets.Class)]
 	public class UIViewAttribute: Attribute
 	{
-		public string Type { get; private set; }
+		public WindowId WindowId { 
+			get; 
+			private set; 
+		}
 
-		public UIViewAttribute(string type)
+		public UIViewAttribute(WindowId windowId)
 		{
-			this.Type = type;
+			this.WindowId = windowId;
 		}
 	}
 }

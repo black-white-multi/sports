@@ -1,0 +1,390 @@
+{"Key":"GLOBAL_BTN_VISITOR","Text":"Vistor Login"}
+{"Key":"GLOBAL_BTN_ACCOUNT","Text":"Anmeldung Registrieren"}
+{"Key":"GLOBAL_ACCOUNT","Text":"Konto"}
+{"Key":"GLOBAL_PASSWORD1","Text":"Passwort"}
+{"Key":"GLOBAL_PASSWORD2","Text":"Passwort"}
+{"Key":"GLOBAL_REGISTER","Text":"Registrieren"}
+{"Key":"GLOBAL_LOGIN","Text":"Einloggen"}
+{"Key":"GLOBAL_BTN_MATCHING","Text":"Matching"}
+{"Key":"GLOBAL_MUSIC","Text":"Musik"}
+{"Key":"GLOBAL_SOUND","Text":"Klang"}
+{"Key":"GLOBAL_OPEN","Text":"Öffnen"}
+{"Key":"GLOBAL_CLOSE","Text":"Schließen"}
+{"Key":"GLOBAL_SETTING","Text":"Rahmen"}
+{"Key":"GLOBAL_LANGUAGE","Text":"Sprache"}
+{"Key":"GLOBAL_UPDATE_HISTORY","Text":"Protokolle"}
+{"Key":"GLOBAL_LOGOUT","Text":"Ausloggen"}
+{"Key":"GLOBAL_MAIN_TOP1","Text":"Platz 1"}
+{"Key":"GLOBAL_MAIN_TOP4","Text":"Top 4"}
+{"Key":"GLOBAL_RATING","Text":"Bewertung"}
+{"Key":"GLOBAL_BTN_CARD","Text":"Karten"}
+{"Key":"GLOBAL_MATCHING","Text":"Matching"}
+{"Key":"GLOBAL_BTN_CANCEL","Text":"Stornieren"}
+{"Key":"GLOBAL_BTN_SURE","Text":"Bestätigen"}
+{"Key":"GLOBAL_RANKING","Text":"Rangfolge"}
+{"Key":"GLOBAL_SELECT_ICON","Text":"Wählen Sie Symbol"}
+{"Key":"GLOBAL_SELECT_ROLE","Text":"Wählen Sie Rolle"}
+{"Key":"GLOBAL_CDTIME","Text":"Countdown: {0}"}
+{"Key":"GLOBAL_BTN_RANDOM","Text":"Zufällig"}
+{"Key":"GLOBAL_BTN_SELECT","Text":"Wählen"}
+{"Key":"GLOBAL_BTN_CREATE","Text":"Erstellen"}
+{"Key":"GLOBAL_BTN_USE","Text":"Verwenden"}
+{"Key":"GLOBAL_BTN_QUIT","Text":"Verlassen"}
+{"Key":"GLOBAL_CARD_SHOP","Text":"Kartenladen"}
+{"Key":"GLOBAL_BTN_UPGRADE","Text":"Aktualisierung"}
+{"Key":"GLOBAL_BTN_BUILD","Text":"Bauen"}
+{"Key":"GLOBAL_BTN_BUY","Text":"Kaufen"}
+{"Key":"GLOBAL_BTN_EXCHANGE","Text":"Austausch"}
+{"Key":"GLOBAL_PRICE_INDEX","Text":"Preisindex: {0}"}
+{"Key":"GLOBAL_ROOT_LEVEL","Text":"Niveau"}
+{"Key":"GLOBAL_BUILD_SHOP","Text":"Bauen/Kaufen"}
+{"Key":"GLOBAL_ROOT_UPGRADE","Text":"Aktualisierung"}
+{"Key":"GLOBAL_COIN_TICKET","Text":"Münze/Ticket"}
+{"Key":"GLOBAL_ROOT_EXP","Text":"Exp: {0}/{1}"}
+{"Key":"GLOBAL_RESOURCE_TYPE","Text":"Ressourcentyp"}
+{"Key":"GLOBAL_LAND_PRICE","Text":"Grundstückspreis"}
+{"Key":"GLOBAL_STREET","Text":"Straße"}
+{"Key":"GLOBAL_RENT","Text":"Miete"}
+{"Key":"GLOBAL_LEVEL_RENT","Text":"LV {0}"}
+{"Key":"GLOBAL_EXCHANGE_RESOURCE","Text":"Ressourcen austauschen"}
+{"Key":"GLOBAL_BTN_RESET","Text":"Zurücksetzen"}
+{"Key":"GLOBAL_SELECT_RESOURCES","Text":"Wählen Sie den Ressourcentyp"}
+{"Key":"GLOBAL_CHOOSE_DICE_DOT","Text":"Wählen Sie die Anzahl der Würfel"}
+{"Key":"GLOBAL_INPUT_ACCOUNT_TIP","Text":"[color=#888888] Bitte Konto eingeben [/color]"}
+{"Key":"GLOBAL_INPUT_PWD_TIP","Text":"[color=#888888] Bitte Passwort eingeben [/color]"}
+{"Key":"GLOBAL_LOGIN_ERROR","Text":"Anmeldung fehlgeschlagen, Konto oder Passwort ist falsch"}
+{"Key":"GLOBAL_REGISTER_ACCOUNT","Text":"Bitte geben Sie ein Konto ein"}
+{"Key":"GLOBAL_REGISTER_NOSAME","Text":"Inkonsistente Passwörter"}
+{"Key":"GLOBAL_REGISTER_SUCCESS","Text":"Registrierung erfolgreich"}
+{"Key":"GLOBAL_ERR_NAMELENGTH","Text":"Registrierung fehlgeschlagen, Kontonummer ist 6-20 Zeichen"}
+{"Key":"GLOBAL_ERR_PASSWORDLENGTH","Text":"Registrierung fehlgeschlagen, das Passwort besteht aus 6-20 Zeichen"}
+{"Key":"GLOBAL_ERR_PASSWORDILLEGAL","Text":"Registrierung fehlgeschlagen, das Passwort enthält unzulässige Zeichen, nur Buchstaben und Zahlen"}
+{"Key":"GLOBAL_ERR_ACCOUNT_EXIST","Text":"Registrierung fehlgeschlagen, Konto existiert bereits"}
+{"Key":"GLOBAL_SWAPCARD_TIP","Text":"Tauschen Sie eine Ressource aus, um {0} Goldmünzen zu erhalten"}
+{"Key":"GLOBAL_SWAPCARD_ERR","Text":"Falsche Menge umtauschen"}
+{"Key":"GLOBAL_CARDSHOP_TITLE","Text":"Kartenladen"}
+{"Key":"GLOBAL_CARDSHOP_SELL","Text":"Karten verkaufen"}
+{"Key":"GLOBAL_CARDSHOP_MYCARD","Text":"Meine Karte"}
+{"Key":"GLOBAL_BTN_BUYCARD","Text":"Kaufen"}
+{"Key":"GLOBAL_BTN_SELLCARD","Text":"Verkaufen"}
+{"Key":"GLOBAL_USE_CARD","Text":"Karte verwenden"}
+{"Key":"GLOBAL_NETWORK_TITLE","Text":"Netzwerkunterbrechung"}
+{"Key":"GLOBAL_NETWORK_DESC","Text":"Verlorene Verbindung zum Server, überprüfen Sie bitte Ihre Netzwerkverbindung und versuchen Sie es erneut."}
+{"Key":"GLOBAL_BTN_RETRY","Text":"Wiederholen"}
+{"Key":"GLOBAL_VERSION_TITLE","Text":"Versionsaktualisierung"}
+{"Key":"GLOBAL_BTN_UPDATE","Text":"Aktualisieren"}
+{"Key":"GLOBAL_INPUT_NAME_TIP","Text":"Bitte geben Sie den Namen ein"}
+{"Key":"GLOBAL_ERR_NICKNAMEEXIST","Text":"Dieser Name existiert bereits"}
+{"Key":"GLOBAL_ERR_NICKNAMEILLEGAL","Text":"Der Name darf nur Zeichen enthalten"}
+{"Key":"GLOBAL_ERR_NICKNAMENUMBER","Text":"Der Name kann keine reine Zahl sein"}
+{"Key":"GLOBAL_ERR_NICKNAMEVIOLATION","Text":"Dieser Name enthält illegale Inhalte"}
+{"Key":"GLOBAL_ERR_NICKNAMELENGTH10","Text":"Die Länge des Namens ist auf 3-12 begrenzt"}
+{"Key":"GLOBAL_ERR_NICKNAMELENGTH7","Text":"Die Länge des Namens ist auf 3-7 begrenzt"}
+{"Key":"GLOBAL_BTN_RULE","Text":"Regelbuch"}
+{"Key":"GLOBAL_SETTLEMENT_RANK","Text":"Rang {0}"}
+{"Key":"GLOBAL_SETTLEMENT_TIP1","Text":"Gewinner Gewinner Hühnchen Abendessen!"}
+{"Key":"GLOBAL_SETTLEMENT_TIP2","Text":"Mach beim nächsten Mal weiter so!"}
+{"Key":"GLOBAL_UPGRADE_ERR_TIP","Text":"Nicht genügend Ressourcen für ein Upgrade"}
+{"Key":"GLOBAL_BUYLAND_ERR_TIP","Text":"Land konnte nicht gekauft werden <img src = 'ui://UIRichMan/icon_element_1' width = '20 'height = '20' /> <img src = 'ui://UIRichMan/icon_element_2' width = '20 'height =' 20 '/> <img src ='ui://UIRichMan/icon_element_3 'width = '20' height = '20 '/> <img src ='ui://UIRichMan/icon_element_4 'width = '20' height = ' 20 '/>"}
+{"Key":"GLOBAL_BUYLAND_LV_ERR_TIP","Text":"Misserfolg, Erhöhen Sie das Level, Kann mehr Land kaufen."}
+{"Key":"GLOBAL_BUILDUP_ERR_TIP","Text":"Gebäude-Upgrade fehlgeschlagen <img src = 'ui://UIRichMan/icon_element_3' width = '20 'height = '20' /> <img src = 'ui://UIRichMan/icon_element_4' width = '20 'height = '20 '/> <img src ='ui://UIRichMan/icon_element_5 'width = '20' height = '20 '/>"}
+{"Key":"GLOBAL_BTN_APPLE_LOGIN","Text":"Melden Sie sich bei Apple an"}
+{"Key":"GLOBAL_ERR_APPLE_LOGIN_VERSION","Text":"Die Systemversion ist nicht verfügbar. Melden Sie sich bei Apple an"}
+{"Key":"GLOBAL_ROOM_BTN_HALL","Text":"Räume"}
+{"Key":"GLOBAL_ROOM_TITLE_LIST","Text":"Räume"}
+{"Key":"GLOBAL_ROOM_BTN_REFRESH","Text":"Aktualisierung"}
+{"Key":"GLOBAL_ROOM_BTN_CREATE","Text":"Erstellen"}
+{"Key":"GLOBAL_ROOM_TITLE_CREATE","Text":"Platz schaffen"}
+{"Key":"GLOBAL_ROOM_NAME","Text":"Name"}
+{"Key":"GLOBAL_ROOM_MODE","Text":"Modus"}
+{"Key":"GLOBAL_ROOM_SHOWHIDE","Text":"Ist es sichtbar?"}
+{"Key":"GLOBAL_ROOM_PASSWORD","Text":"Passwort"}
+{"Key":"GLOBAL_ROOM_TITLE_CUSTOM","Text":"Benutzerdefiniertes Zimmer"}
+{"Key":"GLOBAL_ROOM_PEOPLE","Text":"Personen: {0}/{1}"}
+{"Key":"GLOBAL_ROOM_BTN_ADDIA","Text":"KI hinzufügen"}
+{"Key":"GLOBAL_ROOM_BTN_START","Text":"Spiel starten"}
+{"Key":"GLOBAL_SETTING_SCREEN_FULL","Text":"Vollbild"}
+{"Key":"GLOBAL_ROOM_BTN_JOIN","Text":"Beitreten"}
+{"Key":"GLOBAL_ROOM_TITLE_NO","Text":"Nein."}
+{"Key":"GLOBAL_ROOM_TITLE_NAME","Text":"Name"}
+{"Key":"GLOBAL_ROOM_TITLE_MODE","Text":"Modus"}
+{"Key":"GLOBAL_ROOM_TITLE_PEOPLE","Text":"Anzahl der Personen"}
+{"Key":"GLOBAL_ROOM_TIP_NODATA","Text":"Keine Zimmer"}
+{"Key":"GLOBAL_ROOM_TIP_NAME","Text":"[color=#888888] Bitte geben Sie den Raumnamen ein [/color]"}
+{"Key":"GLOBAL_ROOM_TIP_NOPASSWORD","Text":"[color=#888888] Kein Passwort [/color]"}
+{"Key":"GLOBAL_ROOM_TITLE_NOTXT","Text":"Nr. {0}"}
+{"Key":"GLOBAL_ROOM_ROBOT","Text":"Roboter"}
+{"Key":"GLOBAL_ROOM_WAIT_PLAYER","Text":"Warten auf Beitritt"}
+{"Key":"GLOBAL_ROOM_BTN_READY","Text":"Bereit {0}"}
+{"Key":"GLOBAL_ROOM_BTN_UNREADY","Text":"Stornieren"}
+{"Key":"GLOBAL_RECONNECTBATTLE_TITLE","Text":"Wiederverbindung"}
+{"Key":"GLOBAL_RECONNECTBATTLE_DESC","Text":"Ihr letztes Spiel wurde aufgrund einer Unterbrechung unterbrochen. Wiederverbindung ......"}
+{"Key":"GLOBAL_ROOM_MODE_CASUAL","Text":"Beiläufig"}
+{"Key":"GLOBAL_ROOM_MODE_RANK","Text":"Rang"}
+{"Key":"GLOBAL_ROOM_STATE_VISIBLE","Text":"Sichtbar"}
+{"Key":"GLOBAL_ROOM_STATE_HIDDEN","Text":"Versteckt"}
+{"Key":"GLOBAL_ROOM_TITLE_JION","Text":"Jion-Raum"}
+{"Key":"GLOBAL_JOINROOM_ERR_NOTEXIST","Text":"Fehlgeschlagen, existiert der Raum nicht"}
+{"Key":"GLOBAL_JOINROOM_ERR_PASSWORD","Text":"Fehlgeschlagenes, falsches Passwort"}
+{"Key":"GLOBAL_JOINROOM_ERR_PEOPLEFULL","Text":"Fehlgeschlagen ist der Raum voll"}
+{"Key":"GLOBAL_GAME_MENU","Text":"Spielmenü"}
+{"Key":"GLOBAL_BTN_CONCEDE","Text":"Zugestehen"}
+{"Key":"GLOBAL_ROOM_BTN_SOLO","Text":"Solo"}
+{"Key":"GLOBAL_ROOM_MODE_SOLO","Text":"Solo"}
+{"Key":"GLOBAL_ROOM_TITLE_SOLO","Text":"Solo"}
+{"Key":"GLOBAL_UNLOCK_FEATURE_TIP","Text":"Schalte diese Funktion frei, um Multiplayer-Spiele zu spielen."}
+{"Key":"GLOBAL_UNLOCK_FEATURE_BUY_TIP","Text":"Um diese Funktion freizuschalten, müssen Sie die offizielle Version erwerben."}
+{"Key":"GLOBAL_ACCOUNT_TITLE","Text":"Anmeldung"}
+{"Key":"GLOBAL_ACCOUNT_LOST_PASSWORD","Text":"Passwort verloren"}
+{"Key":"GLOBAL_ACCOUNT_CREATE","Text":"Benutzerkonto anlegen"}
+{"Key":"GLOBAL_ACCOUNT_EMAIL","Text":"Email"}
+{"Key":"GLOBAL_ACCOUNT_ENTER_EMAIL","Text":"[color=#888888]Bitte geben Sie eine E-Mail-Adresse ein[/color]"}
+{"Key":"GLOBAL_ACCOUNT_HAVE","Text":"Ich habe bereits einen Account"}
+{"Key":"GLOBAL_BTN_SUBMIT","Text":"einreichen"}
+{"Key":"GLOBAL_ACCOUNT_RESET_TITLE","Text":"Passwort zurücksetzen"}
+{"Key":"GLOBAL_ACCOUNT_RESET_TIP","Text":"Bitte geben Sie Ihre registrierte E-Mail-Adresse ein und wir helfen Ihnen beim Zurücksetzen Ihres Passworts."}
+{"Key":"GLOBAL_ACCOUNT_ERR_01","Text":"ungültiger Benutzername oder Passwort"}
+{"Key":"GLOBAL_ACCOUNT_ERR_02","Text":"Ungültige E-Mail-Adresse"}
+{"Key":"GLOBAL_ACCOUNT_ERR_03","Text":"Der Benutzername muss zwischen 3 und 20 Zeichen lang sein."}
+{"Key":"GLOBAL_ACCOUNT_ERR_04","Text":"Der Benutzername enthält ungültige Zeichen."}
+{"Key":"GLOBAL_ACCOUNT_ERR_05","Text":"Benutzername existiert bereits."}
+{"Key":"GLOBAL_ACCOUNT_ERR_06","Text":"Das Passwort muss zwischen 6 und 100 Zeichen lang sein."}
+{"Key":"GLOBAL_ACCOUNT_ERR_07","Text":"Email Adresse ist nicht gültig."}
+{"Key":"GLOBAL_ACCOUNT_ERR_08","Text":"Diese E-Mail Adresse ist bereits vergeben."}
+{"Key":"GLOBAL_ACCOUNT_CREATE_TIP","Text":"Erstellen Sie ein Konto, um Ihre Daten zu speichern!"}
+{"Key":"GLOBAL_BTN_LOGIN_EMAIL","Text":"Melden Sie sich mit E-Mail an"}
+{"Key":"GLOBAL_BTN_LOGIN_APPLE","Text":"Melden Sie sich bei Apple an"}
+{"Key":"GLOBAL_DIAMOND_NOT_TIP","Text":"Unzureichende Diamanten"}
+{"Key":"GLOBAL_CHAT_TITLE","Text":"Plaudern"}
+{"Key":"GLOBAL_CHAT_INPUT_TIP","Text":"Bitte geben Sie die Eingabe ein"}
+{"Key":"GLOBAL_CHAT_BTN_SEND","Text":"Senden"}
+{"Key":"GLOBAL_BOXREWARD_TIP","Text":"Erhalten"}
+{"Key":"GLOBAL_BTN_CARD_REFRESH","Text":"Aktualisierung"}
+{"Key":"GLOBAL_ROOM_UNREADY","Text":"Vorbereiten"}
+{"Key":"GLOBAL_ROOM_READY","Text":"Bereit"}
+{"Key":"LANDCONFIG_NAME_1001","Text":"Manila"}
+{"Key":"LANDCONFIG_NAME_1002","Text":"Bangkok"}
+{"Key":"LANDCONFIG_NAME_1003","Text":"Jakarta"}
+{"Key":"LANDCONFIG_NAME_1004","Text":"Neu-Delhi"}
+{"Key":"LANDCONFIG_NAME_1005","Text":"Rom"}
+{"Key":"LANDCONFIG_NAME_1006","Text":"Madrid"}
+{"Key":"LANDCONFIG_NAME_1007","Text":"Toronto"}
+{"Key":"LANDCONFIG_NAME_1008","Text":"Rom"}
+{"Key":"LANDCONFIG_NAME_1009","Text":"Los Angeles"}
+{"Key":"LANDCONFIG_NAME_1010","Text":"San Francisco"}
+{"Key":"LANDCONFIG_NAME_1011","Text":"Moskau"}
+{"Key":"LANDCONFIG_NAME_1012","Text":"Seoul"}
+{"Key":"LANDCONFIG_NAME_1013","Text":"Taipei"}
+{"Key":"LANDCONFIG_NAME_1014","Text":"Peking"}
+{"Key":"LANDCONFIG_NAME_1015","Text":"Sydney"}
+{"Key":"LANDCONFIG_NAME_1016","Text":"Dubai"}
+{"Key":"LANDCONFIG_NAME_1017","Text":"Paris"}
+{"Key":"LANDCONFIG_NAME_1018","Text":"Shanghai"}
+{"Key":"LANDCONFIG_NAME_1019","Text":"Hongkong"}
+{"Key":"LANDCONFIG_NAME_1020","Text":"Tokio"}
+{"Key":"LANDCONFIG_NAME_1021","Text":"London"}
+{"Key":"LANDCONFIG_NAME_1022","Text":"New York"}
+{"Key":"ROLECONFIG_NAME_1","Text":"Porzellanpuppe"}
+{"Key":"ROLECONFIG_NAME_2","Text":"Schüler"}
+{"Key":"ROLECONFIG_NAME_3","Text":"Maid"}
+{"Key":"ROLECONFIG_NAME_4","Text":"Touristenführer"}
+{"Key":"ROLECONFIG_NAME_5","Text":"Böser Bub"}
+{"Key":"ROLECONFIG_NAME_6","Text":"Kleine Katze"}
+{"Key":"ROLECONFIG_NAME_7","Text":"Kriegerin"}
+{"Key":"ROLECONFIG_NAME_8","Text":"Prinzessin"}
+{"Key":"ROLECONFIG_NAME_9","Text":"Weiblicher Agent"}
+{"Key":"ROLECONFIG_NAME_10","Text":"Kleiner roter Hut"}
+{"Key":"ROLECONFIG_NAME_11","Text":"Ursprüngliches Mädchen"}
+{"Key":"ROLECONFIG_NAME_12","Text":"Kleiner Teufel"}
+{"Key":"ROLECONFIG_NAME_13","Text":"Schmuck Tycoon"}
+{"Key":"ROLECONFIG_NAME_14","Text":"Koch"}
+{"Key":"ROLECONFIG_NAME_15","Text":"Kapitän"}
+{"Key":"ROLECONFIG_NAME_16","Text":"Management"}
+{"Key":"ROLECONFIG_NAME_17","Text":"Klempner"}
+{"Key":"ROLECONFIG_NAME_18","Text":"Ärzte"}
+{"Key":"ROLECONFIG_NAME_19","Text":"Schweinekiller"}
+{"Key":"ROLECONFIG_NAME_20","Text":"Holzfäller"}
+{"Key":"ROLECONFIG_NAME_21","Text":"Priester"}
+{"Key":"ROLECONFIG_NAME_22","Text":"Pirat"}
+{"Key":"ROLECONFIG_NAME_23","Text":"Exorzist"}
+{"Key":"ROLECONFIG_NAME_24","Text":"Präsident"}
+{"Key":"ROLECONFIG_NAME_25","Text":"Reiche Frau"}
+{"Key":"ROLECONFIG_NAME_26","Text":"Lehrer"}
+{"Key":"ROLECONFIG_NAME_27","Text":"Stewardess"}
+{"Key":"ROLECONFIG_NAME_28","Text":"Ausschreibungsmodell"}
+{"Key":"ROLECONFIG_NAME_29","Text":"Sänger"}
+{"Key":"ROLECONFIG_NAME_30","Text":"Pilot"}
+{"Key":"ROLECONFIG_NAME_31","Text":"Katzenfrau"}
+{"Key":"ROLECONFIG_NAME_32","Text":"Spezialeinheiten"}
+{"Key":"ROLECONFIG_NAME_33","Text":"Hasenmädchen"}
+{"Key":"ROLECONFIG_NAME_34","Text":"Schlangengeist"}
+{"Key":"ROLECONFIG_NAME_35","Text":"Hexe"}
+{"Key":"ROLECONFIG_NAME_36","Text":"Konkubine"}
+{"Key":"ROLECONFIG_NAME_37","Text":"Hipster"}
+{"Key":"ROLECONFIG_NAME_38","Text":"Boxer"}
+{"Key":"ROLECONFIG_NAME_39","Text":"Polizisten"}
+{"Key":"ROLECONFIG_NAME_40","Text":"Zauberer"}
+{"Key":"ROLECONFIG_NAME_41","Text":"Ninja"}
+{"Key":"ROLECONFIG_NAME_42","Text":"Maler"}
+{"Key":"ROLECONFIG_NAME_43","Text":"Ursprünglicher Bruder"}
+{"Key":"ROLECONFIG_NAME_44","Text":"Prinz"}
+{"Key":"ROLECONFIG_NAME_45","Text":"Kleiner Pirat"}
+{"Key":"ROLECONFIG_NAME_46","Text":"Detektiv"}
+{"Key":"ROLECONFIG_NAME_47","Text":"Cowboy"}
+{"Key":"ROLECONFIG_NAME_48","Text":"Übermensch"}
+{"Key":"ROLECONFIG_NAME_49","Text":"Farmer"}
+{"Key":"ROLECONFIG_NAME_50","Text":"Wütende Jugend"}
+{"Key":"ROLECONFIG_NAME_51","Text":"Ladenbesitzer"}
+{"Key":"ROLECONFIG_NAME_52","Text":"Emporkömmling"}
+{"Key":"ROLECONFIG_NAME_53","Text":"Ritterliches Mädchen"}
+{"Key":"ROLECONFIG_NAME_54","Text":"Hofdame"}
+{"Key":"ROLECONFIG_NAME_55","Text":"Kaiser"}
+{"Key":"ROLECONFIG_NAME_56","Text":"Unterwelt"}
+{"Key":"ROLECONFIG_NAME_57","Text":"Gemischt"}
+{"Key":"ROLECONFIG_NAME_58","Text":"Bettlerbande"}
+{"Key":"ROLECONFIG_NAME_59","Text":"Spieler"}
+{"Key":"ROLECONFIG_NAME_60","Text":"Professor"}
+{"Key":"ROLECONFIG_NAME_61","Text":"Favorit"}
+{"Key":"ROLECONFIG_NAME_62","Text":"Katzen"}
+{"Key":"ROLECONFIG_NAME_63","Text":"Wang Xingren"}
+{"Key":"ROLECONFIG_NAME_64","Text":"Neunschwänziger Fuchs"}
+{"Key":"ROLECONFIG_NAME_65","Text":"Forscher"}
+{"Key":"ROLECONFIG_NAME_66","Text":"Darsteller"}
+{"Key":"ROLECONFIG_NAME_67","Text":"Krankenschwester"}
+{"Key":"EVENTS_CONFIG_DESC_1","Text":"Habe {CASH} Goldmünzen am Straßenrand aufgehoben."}
+{"Key":"EVENTS_CONFIG_DESC_2","Text":"Der Dieb brach in das Haus ein und verlor Goldmünzen."}
+{"Key":"EVENTS_CONFIG_DESC_3","Text":"Das Magnetfeld verursachte eine Verwirrung in der Kartenrichtung und er drehte sich um."}
+{"Key":"EVENTS_CONFIG_DESC_4","Text":"Betrunken und fiel in den Graben, 30 Sekunden ins Krankenhaus eingeliefert"}
+{"Key":"EVENTS_CONFIG_DESC_5","Text":"Das Parken am Straßenrand wurde 30 Sekunden lang im Gefängnis festgehalten"}
+{"Key":"EVENTS_CONFIG_DESC_6","Text":"Mobbing eines vorbeikommenden Kindes und Geldstrafe von {CASH} Goldmünzen"}
+{"Key":"EVENTS_CONFIG_DESC_7","Text":"Hilf deiner Oma, die Straße zu überqueren und Goldmünzen zu erhalten"}
+{"Key":"EVENTS_CONFIG_DESC_8","Text":"Das Haus ist nicht hoch genug und die Regierung half, das Gebäude um ein Stockwerk zu erweitern."}
+{"Key":"EVENTS_CONFIG_DESC_9","Text":"Hervorragende Fähigkeiten, Gutscheine für Filialrabatte {TICKET}."}
+{"Key":"EVENTS_CONFIG_DESC_10","Text":"Er wurde ausgeraubt und verlor {TICKET} Punkte."}
+{"Key":"EVENTS_CONFIG_DESC_11","Text":"Holen Sie sich 1 Karte in einer großen Aktion im Kartengeschäft."}
+{"Key":"CARD_CONFIG_NAME_1001","Text":"1 Schritt"}
+{"Key":"CARD_CONFIG_NAME_1002","Text":"2 Schritte"}
+{"Key":"CARD_CONFIG_NAME_1003","Text":"3 Schritte"}
+{"Key":"CARD_CONFIG_NAME_1004","Text":"4 Schritte"}
+{"Key":"CARD_CONFIG_NAME_1005","Text":"5 Schritte"}
+{"Key":"CARD_CONFIG_NAME_1006","Text":"Sich wenden an"}
+{"Key":"CARD_CONFIG_NAME_1007","Text":"Roboter"}
+{"Key":"CARD_CONFIG_NAME_1008","Text":"frei"}
+{"Key":"CARD_CONFIG_NAME_1009","Text":"Preiserhöhung"}
+{"Key":"CARD_CONFIG_NAME_1010","Text":"Landtausch"}
+{"Key":"CARD_CONFIG_NAME_1011","Text":"Bitte Gott"}
+{"Key":"CARD_CONFIG_NAME_1012","Text":"Sende Gott"}
+{"Key":"CARD_CONFIG_NAME_1013","Text":"Land I"}
+{"Key":"CARD_CONFIG_NAME_1014","Text":"Konstruktion"}
+{"Key":"CARD_CONFIG_NAME_1015","Text":"Ergreifen"}
+{"Key":"CARD_CONFIG_NAME_1016","Text":"Steuer prüfen"}
+{"Key":"CARD_CONFIG_NAME_1017","Text":"Hund"}
+{"Key":"CARD_CONFIG_NAME_1018","Text":"Erdbeben"}
+{"Key":"CARD_CONFIG_NAME_1019","Text":"Verkehrsrowdy"}
+{"Key":"CARD_CONFIG_NAME_1020","Text":"Verkäufer"}
+{"Key":"CARD_CONFIG_NAME_1021","Text":"Zeitbombe"}
+{"Key":"CARD_CONFIG_NAME_1022","Text":"Landmine"}
+{"Key":"CARD_CONFIG_NAME_1023","Text":"Wunschwürfel"}
+{"Key":"CARD_CONFIG_NAME_1024","Text":"Bleibe"}
+{"Key":"CARD_CONFIG_NAME_1025","Text":"Straßensperre"}
+{"Key":"CARD_CONFIG_NAME_1026","Text":"Schildkröte"}
+{"Key":"CARD_CONFIG_NAME_1027","Text":"Stealth"}
+{"Key":"CARD_CONFIG_NAME_1028","Text":"Senden"}
+{"Key":"CARD_CONFIG_NAME_1029","Text":"Gerahmt"}
+{"Key":"CARD_CONFIG_NAME_1030","Text":"Schlafwandeln"}
+{"Key":"CARD_CONFIG_NAME_1031","Text":"schnappen"}
+{"Key":"CARD_CONFIG_NAME_1032","Text":"Rache"}
+{"Key":"CARD_CONFIG_NAME_1033","Text":"Schutz"}
+{"Key":"CARD_CONFIG_NAME_1034","Text":"Ausrede"}
+{"Key":"CARD_CONFIG_NAME_1035","Text":"Abbauen"}
+{"Key":"CARD_CONFIG_NAME_1036","Text":"Münze"}
+{"Key":"CARD_CONFIG_NAME_1037","Text":"Stoßstangenernte"}
+{"Key":"CARD_CONFIG_NAME_1038","Text":"Niveau"}
+{"Key":"CARD_CONFIG_NAME_1039","Text":"Land II"}
+{"Key":"CARD_CONFIG_NAME_1040","Text":"Räuber"}
+{"Key":"CARD_CONFIG_DESC_1001","Text":"Die Anzahl der Würfelpunkte nach Gebrauch beträgt 1"}
+{"Key":"CARD_CONFIG_DESC_1002","Text":"Die Anzahl der Würfelpunkte nach Gebrauch beträgt 2"}
+{"Key":"CARD_CONFIG_DESC_1003","Text":"Die Anzahl der Würfelpunkte nach Gebrauch beträgt 3"}
+{"Key":"CARD_CONFIG_DESC_1004","Text":"Die Anzahl der Würfelpunkte nach Gebrauch beträgt 4"}
+{"Key":"CARD_CONFIG_DESC_1005","Text":"Die Anzahl der Würfelpunkte nach Gebrauch beträgt 5"}
+{"Key":"CARD_CONFIG_DESC_1006","Text":"Richtung nach Gebrauch umkehren"}
+{"Key":"CARD_CONFIG_DESC_1007","Text":"Beseitigen Sie alle Hindernisse in den vorderen 3 Blöcken"}
+{"Key":"CARD_CONFIG_DESC_1008","Text":"Wenn hohe Mautgebühren zu zahlen sind, 50% weniger Geld"}
+{"Key":"CARD_CONFIG_DESC_1009","Text":"Wählen Sie ein Gebäude innerhalb von 6 Blöcken aus, um die nächste Gebühr auf 200% zu erhöhen."}
+{"Key":"CARD_CONFIG_DESC_1010","Text":"Wenn Sie auf dem Land anderer Leute bleiben, wählen Sie das Land mit der gleichen Fläche innerhalb von 6 Blöcken, um das Eigentum auszutauschen"}
+{"Key":"CARD_CONFIG_DESC_1011","Text":"Besitze die nächste Fee innerhalb von 6 Blöcken"}
+{"Key":"CARD_CONFIG_DESC_1012","Text":"Lass die Götter gehen"}
+{"Key":"CARD_CONFIG_DESC_1013","Text":"Kaufen Sie das Gebäude des Gegners,"}
+{"Key":"CARD_CONFIG_DESC_1014","Text":"Werte dein eigenes Gebäude auf Level 1 auf"}
+{"Key":"CARD_CONFIG_DESC_1015","Text":"Wählen Sie ein Gebäude innerhalb von 6 Feldern, um den Ladevorgang für 1 Runde zu beenden"}
+{"Key":"CARD_CONFIG_DESC_1016","Text":"Wähle einen Gegner auf 3 Feldern und berechne ihm 10% Geld"}
+{"Key":"CARD_CONFIG_DESC_1017","Text":"Platzieren Sie den Hund und treten Sie 30 Sekunden lang auf den Hund, der ins Krankenhaus eingeliefert werden soll"}
+{"Key":"CARD_CONFIG_DESC_1018","Text":"Wählen Sie das erwartete Gebäude innerhalb von 3 Gittern aus und reduzieren Sie so das Niveau um 1"}
+{"Key":"CARD_CONFIG_DESC_1019","Text":"Wählen Sie 3 Blöcke im Gebäude des Gegners und lassen Sie die nächste Maut zu. Wenn Sie darauf treten, sind Sie von der Maut befreit"}
+{"Key":"CARD_CONFIG_DESC_1020","Text":"Beschwöre kleine Händler und kaufe Karten von ihnen"}
+{"Key":"CARD_CONFIG_DESC_1021","Text":"Platziere eine Zeitbombe und werde nach der Explosion für 30 Sekunden ins Krankenhaus eingeliefert"}
+{"Key":"CARD_CONFIG_DESC_1022","Text":"Wähle einen offenen Bereich innerhalb von 3 Feldern, um Minen zu platzieren, und der Charakter muss 20 Sekunden lang ins Krankenhaus eingeliefert werden"}
+{"Key":"CARD_CONFIG_DESC_1023","Text":"Wähle 1-6 Würfelpunkte"}
+{"Key":"CARD_CONFIG_DESC_1024","Text":"Nach Gebrauch 1 Runde an Ort und Stelle bleiben"}
+{"Key":"CARD_CONFIG_DESC_1025","Text":"Platziere Straßensperren und zwinge den Charakter, beim Vorbeigehen zu bleiben"}
+{"Key":"CARD_CONFIG_DESC_1026","Text":"Gehen Sie nach Gebrauch 1 Schritt für 3 aufeinanderfolgende Runden"}
+{"Key":"CARD_CONFIG_DESC_1027","Text":"Unsichtbar für 1 Runde, gebührenfrei"}
+{"Key":"CARD_CONFIG_DESC_1028","Text":"Teleportiere dich zufällig zum Ort eines Gegners"}
+{"Key":"CARD_CONFIG_DESC_1029","Text":"Wähle einen Gegner innerhalb von 3 Feldern und sperre ihn für 3 Runden ein"}
+{"Key":"CARD_CONFIG_DESC_1030","Text":"Wähle einen Gegner innerhalb von 3 Feldern aus, um 2 Runden lang zu schlafen"}
+{"Key":"CARD_CONFIG_DESC_1031","Text":"Wähle einen Gegner innerhalb von 3 Feldern und nimm zufällig eine seiner Karten"}
+{"Key":"CARD_CONFIG_DESC_1032","Text":"Immunität, die Steuerkarte zu überprüfen und die Strafe auf den Gegner zu übertragen"}
+{"Key":"CARD_CONFIG_DESC_1033","Text":"Widerstehen Sie Zeitbomben, Minen und bösartigen Hunden innerhalb von 2 Runden"}
+{"Key":"CARD_CONFIG_DESC_1034","Text":"Aus der Haft befreit"}
+{"Key":"CARD_CONFIG_DESC_1035","Text":"Das Gebäude des Gegners wird um 1 herabgestuft"}
+{"Key":"CARD_CONFIG_DESC_1036","Text":"Erhalten Sie zufällig 3000-4000 Goldmünzen"}
+{"Key":"CARD_CONFIG_DESC_1037","Text":"Erhalten Sie zwei Ressourcen. Der Ressourcentyp wird von Ihnen selbst angegeben"}
+{"Key":"CARD_CONFIG_DESC_1038","Text":"Steige um 2 EXP-Punkte auf"}
+{"Key":"CARD_CONFIG_DESC_1039","Text":"Kaufen Sie das Gebäude des Gegners am Standort, ohne Begrenzung der Gebäudeebene"}
+{"Key":"CARD_CONFIG_DESC_1040","Text":"Platziere Räuber und sammle 30 Tickets vom Gegner, insgesamt 3 Mal"}
+{"Key":"RULE_STR_001","Text":"Spielregeln"}
+{"Key":"RULE_STR_002","Text":"Überblick"}
+{"Key":"RULE_STR_003","Text":"Number One Rich ist ein 8-Spieler-Kampfstrategiespiel. Die Spieler erhalten zu Beginn des Spiels Goldmünzen. Sie würfeln mit Glück, kaufen Land und bauen Gebäude, um Miete zu verdienen. Spieler machen andere Spieler im Spiel bankrott und der letzte verbleibende Spieler ist der Gewinner."}
+{"Key":"RULE_STR_004","Text":"Sieg"}
+{"Key":"RULE_STR_005","Text":"Es ist nicht schwer zu gewinnen: Kaufen Sie Land, rüsten Sie Gebäude auf und machen Sie andere Spieler bankrott, indem Sie Miete verlangen."}
+{"Key":"RULE_STR_006","Text":"Spielablauf"}
+{"Key":"RULE_STR_007","Text":"Number One Rich ist ein Echtzeitspiel. Wenn Sie durch Energierückgewinnung Würfel werfen, können Sie Land kaufen und Gebäude bauen, in denen Sie bleiben. Wenn Sie am Land anderer Spieler vorbeikommen, müssen Sie Miete zahlen. Spieler können mit dem Ticket Kartenrequisiten im Kartenladen kaufen. Die Verwendung von Kartenrequisiten ist ebenfalls eine wichtige Gewinnstrategie."}
+{"Key":"RULE_STR_101","Text":"Karteneinführung"}
+{"Key":"RULE_STR_102","Text":"Die Karte enthält feste Triggerpunkte für zufällige Ereignisse, Kartengeschäfte, Tickets, Gebäude und Ressourcenmechanismuspunkte."}
+{"Key":"RULE_STR_103","Text":"Land"}
+{"Key":"RULE_STR_104","Text":"Spieler können konsumieren<img src='ui://UIRichMan/icon_element_1' width='20' height='20'/><img src='ui://UIRichMan/icon_element_2' width='20' height='20 '/><img src='ui://UIRichMan/icon_element_3' width='20' height='20'/><img src='ui://UIRichMan/icon_element_4' width='20' height='20 '/>Land kaufen, um ein Haus zu bauen"}
+{"Key":"RULE_STR_105","Text":"Kartenladen"}
+{"Key":"RULE_STR_106","Text":"1. Wenn der Spieler diesen Punkt betritt, kann er mit dem Ticket Kartengegenstände kaufen. \n2. Nach Erreichen von Level 6 können die Spieler verwenden<img src='ui://UIRichMan/icon_element_1' width='20' height='20'/><img src='ui://UIRichMan/icon_element_2' width='20' height='20'/><img src='ui://UIRichMan/icon_element_3' width='20' height='20'/><img src='ui://UIRichMan/icon_element_4' width='20' height='20'/>Öffne den CardShop."}
+{"Key":"RULE_STR_107","Text":"Fahrkarte"}
+{"Key":"RULE_STR_108","Text":"Spieler erhalten entsprechende Wertpunkte"}
+{"Key":"RULE_STR_109","Text":"Zufällige Ereignisse"}
+{"Key":"RULE_STR_110","Text":"Lösen Sie nach dem Zufallsprinzip Ereignisse wie Krankenhausaufenthalt, Eintritt ins Gefängnis, Erhalt von Münzen, Eintrittskarten, Karten und anderen Requisiten aus"}
+{"Key":"RULE_STR_111","Text":"Ressourcenmechanismuspunkt"}
+{"Key":"RULE_STR_112","Text":"Wenn der Spieler nach dem Betreten die Gesamtressourcen> 7 beträgt, wird die Hälfte der Ressourcen nach dem Zufallsprinzip verworfen. Wenn die Gesamtmenge der Ressourcen weniger als 7 beträgt, wird eine zufällige Ressource erhalten. Wenn die Anzahl der Ressourcen = 7 ist, wird kein Effekt ausgelöst."}
+{"Key":"RULE_STR_113","Text":"Krankenhaus/Polizei"}
+{"Key":"RULE_STR_114","Text":"Wenn der Spieler ins Krankenhaus oder ins Gefängnis kommt, kann er keine Miete und keine Ressourcen erhalten und wird nach einer bestimmten Zeit automatisch freigelassen."}
+{"Key":"RULE_STR_115","Text":"Götter"}
+{"Key":"RULE_STR_116","Text":"In regelmäßigen Abständen werden die Götter auf der Karte zufällig aktualisiert."}
+{"Key":"RULE_STR_201","Text":"Ressourcenbeschreibung"}
+{"Key":"RULE_STR_202","Text":"Münze<img src='ui://UIRichMan/icon_128_cash' width='30' height='30'/>"}
+{"Key":"RULE_STR_203","Text":"Nachdem der Spieler zu Beginn des Spiels die ersten Goldmünzen erhalten hat, können diese durch Sammeln von Miete, Austausch von Ressourcen oder Auslösen zufälliger Ereignisse erhalten werden. Nachdem die Goldmünzen Null sind, gehen sie bankrott."}
+{"Key":"RULE_STR_204","Text":"Ticket<img src='ui://UIRichMan/icon_ticket' width='30' height='30'/>"}
+{"Key":"RULE_STR_205","Text":"Wenn Sie Tickets konsumieren, können Sie Kartenartikel im Kartengeschäft kaufen"}
+{"Key":"RULE_STR_206","Text":"Ressourcen<img src='ui://UIRichMan/icon_element_1' width='30' height='30'/><img src='ui://UIRichMan/icon_element_2' width='30' height='30'/><img src='ui://UIRichMan/icon_element_3' width='30' height='30'/><img src='ui://UIRichMan/icon_element_4' width='30' height='30'/><img src='ui://UIRichMan/icon_element_5' width='30' height='30'/>"}
+{"Key":"RULE_STR_207","Text":"5 Arten von Ressourcen, mit denen Häuser gebaut und aufgewertet, Goldmünzen und Tickets eingetauscht werden können"}
+{"Key":"RULE_STR_208","Text":"Systemressourcenaustausch"}
+{"Key":"RULE_STR_209","Text":"Spieler können überschüssige Ressourcen gegen andere benötigte Ressourcen austauschen \nDas Verhältnis beträgt 4: 1, und Goldmünzen können durch den Austausch von Ressourcen erhalten werden."}
+{"Key":"RULE_STR_210","Text":"Ressourcenaustausch für Münzen und Tickets"}
+{"Key":"RULE_STR_211","Text":"Spieler können Ressourcen verbrauchen, Münzen oder Tickets umtauschen."}
+{"Key":"RULE_STR_301","Text":"Glossar"}
+{"Key":"RULE_STR_302","Text":"Hier finden Sie eine detaillierte Erläuterung der in Number One Rich verwendeten Begriffe und Konzepte"}
+{"Key":"RULE_STR_303","Text":"Spielerstufe<img src='ui://UIRichMan/icon_128_rate_6' width='30' height='30'/>"}
+{"Key":"RULE_STR_304","Text":"Es gibt 6 Spielerstufen, und der Spieler muss<img src='ui://UIRichMan/icon_element_1' width='20' height='20'/><img src='ui://UIRichMan/icon_element_2' width=' 20' height='20'/>Erhöhen Sie die Ebene. \nSie können jedes Mal, wenn Sie aufsteigen, ein weiteres Gebäude kaufen. Die Anzahl der Gebäude, die Sie nach Erreichen des Levels kaufen können, ist unbegrenzt."}
+{"Key":"RULE_STR_305","Text":"Preisindex"}
+{"Key":"RULE_STR_306","Text":"Der Preisindex steigt mit zunehmendem Spielerlevel. \n Je höher der Preisindex, desto höher die Mieteinnahmen."}
+{"Key":"RULE_STR_307","Text":"Gebäudequalität"}
+{"Key":"RULE_STR_308","Text":"Es gibt 5 Ebenen von Gebäudeebenen \nKaufland kaufen<img src='ui://UIRichMan/icon_element_1' width='20' height='20'/><img src='ui://UIRichMan/icon_element_2' width=' 20' height='20'/><img src='ui://UIRichMan/icon_element_3' width='20' height='20'/><img src='ui://UIRichMan/icon_element_4' width=' 20' height='20'/>\nUpgrade Building<img src='ui://UIRichMan/icon_element_3' width='20' height='20'/><img src='ui://UIRichMan/icon_element_4' width=' 20' height='20'/><img src='ui://UIRichMan/icon_element_5' width='20' height='20'/>"}
+{"Key":"RULE_STR_309","Text":"Reihe von Land"}
+{"Key":"RULE_STR_310","Text":"Wenn ein Spieler zwei oder mehr Länder derselben Farbe besetzt, bilden sie eine Reihe, und andere Spieler, die an einer Landreihe vorbeikommen, können Miete und Ressourcen für die Landreihe sammeln."}
+{"Key":"RULE_STR_311","Text":"Würfel Energie"}
+{"Key":"RULE_STR_312","Text":"Der Spieler muss eine bestimmte Menge Energie sammeln, bevor er die Würfel benutzt. Wenn die Energie überläuft, wird der Würfelwurf automatisch ausgelöst."}

@@ -1,0 +1,390 @@
+{"Key":"GLOBAL_BTN_VISITOR","Text":"Vistor Войти"}
+{"Key":"GLOBAL_BTN_ACCOUNT","Text":"Войти/Зарегистрироваться"}
+{"Key":"GLOBAL_ACCOUNT","Text":"Счет"}
+{"Key":"GLOBAL_PASSWORD1","Text":"пароль"}
+{"Key":"GLOBAL_PASSWORD2","Text":"пароль"}
+{"Key":"GLOBAL_REGISTER","Text":"регистр"}
+{"Key":"GLOBAL_LOGIN","Text":"Авторизоваться"}
+{"Key":"GLOBAL_BTN_MATCHING","Text":"Соответствие"}
+{"Key":"GLOBAL_MUSIC","Text":"Музыка"}
+{"Key":"GLOBAL_SOUND","Text":"Звук"}
+{"Key":"GLOBAL_OPEN","Text":"открыто"}
+{"Key":"GLOBAL_CLOSE","Text":"близко"}
+{"Key":"GLOBAL_SETTING","Text":"Настройка"}
+{"Key":"GLOBAL_LANGUAGE","Text":"Язык"}
+{"Key":"GLOBAL_UPDATE_HISTORY","Text":"Журналы"}
+{"Key":"GLOBAL_LOGOUT","Text":"Выйти"}
+{"Key":"GLOBAL_MAIN_TOP1","Text":"1-е место"}
+{"Key":"GLOBAL_MAIN_TOP4","Text":"Топ 4"}
+{"Key":"GLOBAL_RATING","Text":"Рейтинг"}
+{"Key":"GLOBAL_BTN_CARD","Text":"Открытки"}
+{"Key":"GLOBAL_MATCHING","Text":"Соответствие"}
+{"Key":"GLOBAL_BTN_CANCEL","Text":"Отмена"}
+{"Key":"GLOBAL_BTN_SURE","Text":"Подтвердить"}
+{"Key":"GLOBAL_RANKING","Text":"Рейтинг"}
+{"Key":"GLOBAL_SELECT_ICON","Text":"Выбрать значок"}
+{"Key":"GLOBAL_SELECT_ROLE","Text":"Выберите роль"}
+{"Key":"GLOBAL_CDTIME","Text":"Обратный отсчет: {0}"}
+{"Key":"GLOBAL_BTN_RANDOM","Text":"Случайный"}
+{"Key":"GLOBAL_BTN_SELECT","Text":"Выбрать"}
+{"Key":"GLOBAL_BTN_CREATE","Text":"Создайте"}
+{"Key":"GLOBAL_BTN_USE","Text":"Использовать"}
+{"Key":"GLOBAL_BTN_QUIT","Text":"Уволиться"}
+{"Key":"GLOBAL_CARD_SHOP","Text":"Магазин открыток"}
+{"Key":"GLOBAL_BTN_UPGRADE","Text":"Обновить"}
+{"Key":"GLOBAL_BTN_BUILD","Text":"Построить"}
+{"Key":"GLOBAL_BTN_BUY","Text":"купить"}
+{"Key":"GLOBAL_BTN_EXCHANGE","Text":"Обмен"}
+{"Key":"GLOBAL_PRICE_INDEX","Text":"Индекс цен: {0}"}
+{"Key":"GLOBAL_ROOT_LEVEL","Text":"Уровень"}
+{"Key":"GLOBAL_BUILD_SHOP","Text":"Сборка/Магазин"}
+{"Key":"GLOBAL_ROOT_UPGRADE","Text":"Обновить"}
+{"Key":"GLOBAL_COIN_TICKET","Text":"Монета/Билет"}
+{"Key":"GLOBAL_ROOT_EXP","Text":"Опыт: {0}/{1}"}
+{"Key":"GLOBAL_RESOURCE_TYPE","Text":"Тип ресурса"}
+{"Key":"GLOBAL_LAND_PRICE","Text":"Цена земли"}
+{"Key":"GLOBAL_STREET","Text":"Улица"}
+{"Key":"GLOBAL_RENT","Text":"Арендная плата"}
+{"Key":"GLOBAL_LEVEL_RENT","Text":"LV {0}"}
+{"Key":"GLOBAL_EXCHANGE_RESOURCE","Text":"Обмен ресурсами"}
+{"Key":"GLOBAL_BTN_RESET","Text":"Сброс настроек"}
+{"Key":"GLOBAL_SELECT_RESOURCES","Text":"Выберите тип ресурса"}
+{"Key":"GLOBAL_CHOOSE_DICE_DOT","Text":"Выберите количество кубиков"}
+{"Key":"GLOBAL_INPUT_ACCOUNT_TIP","Text":"[color=#888888] Пожалуйста, введите аккаунт [/color]"}
+{"Key":"GLOBAL_INPUT_PWD_TIP","Text":"[color=#888888] Введите пароль [/color]"}
+{"Key":"GLOBAL_LOGIN_ERROR","Text":"Ошибка входа, неверный аккаунт или пароль"}
+{"Key":"GLOBAL_REGISTER_ACCOUNT","Text":"Пожалуйста, введите аккаунт"}
+{"Key":"GLOBAL_REGISTER_NOSAME","Text":"Несогласованные пароли"}
+{"Key":"GLOBAL_REGISTER_SUCCESS","Text":"Регистрация успех"}
+{"Key":"GLOBAL_ERR_NAMELENGTH","Text":"Регистрация не удалась, номер счета 6-20 символов"}
+{"Key":"GLOBAL_ERR_PASSWORDLENGTH","Text":"Регистрация не удалась, пароль 6-20 символов"}
+{"Key":"GLOBAL_ERR_PASSWORDILLEGAL","Text":"Регистрация не удалась, пароль содержит недопустимые символы, только буквы и цифры"}
+{"Key":"GLOBAL_ERR_ACCOUNT_EXIST","Text":"Ошибка регистрации, аккаунт уже существует"}
+{"Key":"GLOBAL_SWAPCARD_TIP","Text":"Обменяйте ресурс, чтобы получить {0} золотых монет"}
+{"Key":"GLOBAL_SWAPCARD_ERR","Text":"Обменять Неверную сумму"}
+{"Key":"GLOBAL_CARDSHOP_TITLE","Text":"Магазин открыток"}
+{"Key":"GLOBAL_CARDSHOP_SELL","Text":"Продать карты"}
+{"Key":"GLOBAL_CARDSHOP_MYCARD","Text":"Моя карта"}
+{"Key":"GLOBAL_BTN_BUYCARD","Text":"купить"}
+{"Key":"GLOBAL_BTN_SELLCARD","Text":"Продать"}
+{"Key":"GLOBAL_USE_CARD","Text":"Использовать карту"}
+{"Key":"GLOBAL_NETWORK_TITLE","Text":"Прерывание сети"}
+{"Key":"GLOBAL_NETWORK_DESC","Text":"Соединение с сервером потеряно, проверьте сетевое соединение и повторите попытку."}
+{"Key":"GLOBAL_BTN_RETRY","Text":"Повторить"}
+{"Key":"GLOBAL_VERSION_TITLE","Text":"Обновление версии"}
+{"Key":"GLOBAL_BTN_UPDATE","Text":"Обновить"}
+{"Key":"GLOBAL_INPUT_NAME_TIP","Text":"Пожалуйста, введите имя"}
+{"Key":"GLOBAL_ERR_NICKNAMEEXIST","Text":"Это имя уже существует"}
+{"Key":"GLOBAL_ERR_NICKNAMEILLEGAL","Text":"Имя может содержать только символы"}
+{"Key":"GLOBAL_ERR_NICKNAMENUMBER","Text":"Имя не может быть чистым числом"}
+{"Key":"GLOBAL_ERR_NICKNAMEVIOLATION","Text":"Это имя содержит незаконный контент"}
+{"Key":"GLOBAL_ERR_NICKNAMELENGTH10","Text":"Длина имени ограничена 3-12"}
+{"Key":"GLOBAL_ERR_NICKNAMELENGTH7","Text":"Длина имени ограничена 3-7"}
+{"Key":"GLOBAL_BTN_RULE","Text":"Книга правил"}
+{"Key":"GLOBAL_SETTLEMENT_RANK","Text":"Рейтинг {0}"}
+{"Key":"GLOBAL_SETTLEMENT_TIP1","Text":"Победитель Winner Chicken Dinner!"}
+{"Key":"GLOBAL_SETTLEMENT_TIP2","Text":"Следите за успехом в следующий раз!"}
+{"Key":"GLOBAL_UPGRADE_ERR_TIP","Text":"Недостаточно ресурсов для обновления"}
+{"Key":"GLOBAL_BUYLAND_ERR_TIP","Text":"Не удалось купить землю <img src ='ui://UIRichMan/icon_element_1' width ='20' height ='20'/> <img src ='ui://UIRichMan/icon_element_2' width ='20' height ='20'/> <img src ='ui://UIRichMan/icon_element_3' width ='20' height ='20'/> <img src ='ui://UIRichMan/icon_element_4' width ='20' height ='20'/>"}
+{"Key":"GLOBAL_BUYLAND_LV_ERR_TIP","Text":"провал, Поднять уровень, Можно купить больше земли."}
+{"Key":"GLOBAL_BUILDUP_ERR_TIP","Text":"Ошибка обновления здания <img src ='ui://UIRichMan/icon_element_3' width ='20' height ='20'/> <img src ='ui://UIRichMan/icon_element_4' width ='20' height ='20'/> <img src ='ui://UIRichMan/icon_element_5' width ='20' height ='20'/>"}
+{"Key":"GLOBAL_BTN_APPLE_LOGIN","Text":"Войти через Apple"}
+{"Key":"GLOBAL_ERR_APPLE_LOGIN_VERSION","Text":"Версия системы недоступна Войти через Apple"}
+{"Key":"GLOBAL_ROOM_BTN_HALL","Text":"Номера"}
+{"Key":"GLOBAL_ROOM_TITLE_LIST","Text":"Номера"}
+{"Key":"GLOBAL_ROOM_BTN_REFRESH","Text":"Обновить"}
+{"Key":"GLOBAL_ROOM_BTN_CREATE","Text":"Создайте"}
+{"Key":"GLOBAL_ROOM_TITLE_CREATE","Text":"Создать комнату"}
+{"Key":"GLOBAL_ROOM_NAME","Text":"название"}
+{"Key":"GLOBAL_ROOM_MODE","Text":"Режим"}
+{"Key":"GLOBAL_ROOM_SHOWHIDE","Text":"Это видно"}
+{"Key":"GLOBAL_ROOM_PASSWORD","Text":"пароль"}
+{"Key":"GLOBAL_ROOM_TITLE_CUSTOM","Text":"Индивидуальный номер"}
+{"Key":"GLOBAL_ROOM_PEOPLE","Text":"Люди: {0}/{1}"}
+{"Key":"GLOBAL_ROOM_BTN_ADDIA","Text":"Добавить AI"}
+{"Key":"GLOBAL_ROOM_BTN_START","Text":"Начать игру"}
+{"Key":"GLOBAL_SETTING_SCREEN_FULL","Text":"Полноэкранный"}
+{"Key":"GLOBAL_ROOM_BTN_JOIN","Text":"Присоединиться"}
+{"Key":"GLOBAL_ROOM_TITLE_NO","Text":"Нет."}
+{"Key":"GLOBAL_ROOM_TITLE_NAME","Text":"название"}
+{"Key":"GLOBAL_ROOM_TITLE_MODE","Text":"Режим"}
+{"Key":"GLOBAL_ROOM_TITLE_PEOPLE","Text":"Число людей"}
+{"Key":"GLOBAL_ROOM_TIP_NODATA","Text":"Нет комнат"}
+{"Key":"GLOBAL_ROOM_TIP_NAME","Text":"[color=#888888] Введите название комнаты [/color]"}
+{"Key":"GLOBAL_ROOM_TIP_NOPASSWORD","Text":"[color=#888888] Нет пароля [/color]"}
+{"Key":"GLOBAL_ROOM_TITLE_NOTXT","Text":"Нет. {0}"}
+{"Key":"GLOBAL_ROOM_ROBOT","Text":"Робот"}
+{"Key":"GLOBAL_ROOM_WAIT_PLAYER","Text":"Ожидание присоединения"}
+{"Key":"GLOBAL_ROOM_BTN_READY","Text":"Готово {0}"}
+{"Key":"GLOBAL_ROOM_BTN_UNREADY","Text":"Отмена"}
+{"Key":"GLOBAL_RECONNECTBATTLE_TITLE","Text":"Повторное подключение"}
+{"Key":"GLOBAL_RECONNECTBATTLE_DESC","Text":"Ваша последняя игра была прервана из-за отключения. Повторное подключение ..."}
+{"Key":"GLOBAL_ROOM_MODE_CASUAL","Text":"Повседневная"}
+{"Key":"GLOBAL_ROOM_MODE_RANK","Text":"Ранг"}
+{"Key":"GLOBAL_ROOM_STATE_VISIBLE","Text":"Видимый"}
+{"Key":"GLOBAL_ROOM_STATE_HIDDEN","Text":"Скрытый"}
+{"Key":"GLOBAL_ROOM_TITLE_JION","Text":"Номер Jion"}
+{"Key":"GLOBAL_JOINROOM_ERR_NOTEXIST","Text":"Ошибка, комнаты не существует"}
+{"Key":"GLOBAL_JOINROOM_ERR_PASSWORD","Text":"Ошибка, неверный пароль"}
+{"Key":"GLOBAL_JOINROOM_ERR_PEOPLEFULL","Text":"Ошибка, комната заполнена"}
+{"Key":"GLOBAL_GAME_MENU","Text":"Игровое меню"}
+{"Key":"GLOBAL_BTN_CONCEDE","Text":"Уступить"}
+{"Key":"GLOBAL_ROOM_BTN_SOLO","Text":"Соло"}
+{"Key":"GLOBAL_ROOM_MODE_SOLO","Text":"Соло"}
+{"Key":"GLOBAL_ROOM_TITLE_SOLO","Text":"Соло"}
+{"Key":"GLOBAL_UNLOCK_FEATURE_TIP","Text":"Разблокируйте эту функцию, чтобы играть в многопользовательские игры."}
+{"Key":"GLOBAL_UNLOCK_FEATURE_BUY_TIP","Text":"Чтобы разблокировать эту функцию, вам необходимо приобрести официальную версию."}
+{"Key":"GLOBAL_ACCOUNT_TITLE","Text":"Авторизоваться"}
+{"Key":"GLOBAL_ACCOUNT_LOST_PASSWORD","Text":"Забытый пароль"}
+{"Key":"GLOBAL_ACCOUNT_CREATE","Text":"Регистрация"}
+{"Key":"GLOBAL_ACCOUNT_EMAIL","Text":"Эл. адрес"}
+{"Key":"GLOBAL_ACCOUNT_ENTER_EMAIL","Text":"[color=#888888]Введите адрес электронной почты[/color]"}
+{"Key":"GLOBAL_ACCOUNT_HAVE","Text":"у меня уже есть аккаунт"}
+{"Key":"GLOBAL_BTN_SUBMIT","Text":"Разместить"}
+{"Key":"GLOBAL_ACCOUNT_RESET_TITLE","Text":"Сброс пароля"}
+{"Key":"GLOBAL_ACCOUNT_RESET_TIP","Text":"Пожалуйста, введите ваш зарегистрированный адрес электронной почты, и мы поможем вам сбросить пароль."}
+{"Key":"GLOBAL_ACCOUNT_ERR_01","Text":"неправильное имя пользователя или пароль"}
+{"Key":"GLOBAL_ACCOUNT_ERR_02","Text":"Неверный адрес электронной почты"}
+{"Key":"GLOBAL_ACCOUNT_ERR_03","Text":"Имя пользователя должно содержать от 3 до 20 символов."}
+{"Key":"GLOBAL_ACCOUNT_ERR_04","Text":"Имя пользователя содержит недопустимые символы."}
+{"Key":"GLOBAL_ACCOUNT_ERR_05","Text":"Имя пользователя уже существует."}
+{"Key":"GLOBAL_ACCOUNT_ERR_06","Text":"Пароль должен содержать от 6 до 100 символов."}
+{"Key":"GLOBAL_ACCOUNT_ERR_07","Text":"Электронный адрес недействителен."}
+{"Key":"GLOBAL_ACCOUNT_ERR_08","Text":"Адрес электронной почты уже существует."}
+{"Key":"GLOBAL_ACCOUNT_CREATE_TIP","Text":"Создайте аккаунт, чтобы сохранить свои данные!"}
+{"Key":"GLOBAL_BTN_LOGIN_EMAIL","Text":"Войти с помощью электронной почты"}
+{"Key":"GLOBAL_BTN_LOGIN_APPLE","Text":"Войти через Apple"}
+{"Key":"GLOBAL_DIAMOND_NOT_TIP","Text":"Недостаточно бриллиантов"}
+{"Key":"GLOBAL_CHAT_TITLE","Text":"Чат"}
+{"Key":"GLOBAL_CHAT_INPUT_TIP","Text":"Пожалуйста, введите ввод"}
+{"Key":"GLOBAL_CHAT_BTN_SEND","Text":"Отправлять"}
+{"Key":"GLOBAL_BOXREWARD_TIP","Text":"Получать"}
+{"Key":"GLOBAL_BTN_CARD_REFRESH","Text":"Обновить"}
+{"Key":"GLOBAL_ROOM_UNREADY","Text":"Подготовка"}
+{"Key":"GLOBAL_ROOM_READY","Text":"Готовый"}
+{"Key":"LANDCONFIG_NAME_1001","Text":"Манила"}
+{"Key":"LANDCONFIG_NAME_1002","Text":"Бангкок"}
+{"Key":"LANDCONFIG_NAME_1003","Text":"Джакарта"}
+{"Key":"LANDCONFIG_NAME_1004","Text":"Нью-Дели"}
+{"Key":"LANDCONFIG_NAME_1005","Text":"Рим"}
+{"Key":"LANDCONFIG_NAME_1006","Text":"Мадрид"}
+{"Key":"LANDCONFIG_NAME_1007","Text":"Торонто"}
+{"Key":"LANDCONFIG_NAME_1008","Text":"Рим"}
+{"Key":"LANDCONFIG_NAME_1009","Text":"Лос-Анджелес"}
+{"Key":"LANDCONFIG_NAME_1010","Text":"Сан-Франциско"}
+{"Key":"LANDCONFIG_NAME_1011","Text":"г. Москва"}
+{"Key":"LANDCONFIG_NAME_1012","Text":"Сеул"}
+{"Key":"LANDCONFIG_NAME_1013","Text":"Тайбэй"}
+{"Key":"LANDCONFIG_NAME_1014","Text":"Пекин"}
+{"Key":"LANDCONFIG_NAME_1015","Text":"Сидней"}
+{"Key":"LANDCONFIG_NAME_1016","Text":"Дубай"}
+{"Key":"LANDCONFIG_NAME_1017","Text":"Париж"}
+{"Key":"LANDCONFIG_NAME_1018","Text":"Шанхай"}
+{"Key":"LANDCONFIG_NAME_1019","Text":"Гонконг"}
+{"Key":"LANDCONFIG_NAME_1020","Text":"Токио"}
+{"Key":"LANDCONFIG_NAME_1021","Text":"Лондон"}
+{"Key":"LANDCONFIG_NAME_1022","Text":"Нью-Йорк"}
+{"Key":"ROLECONFIG_NAME_1","Text":"Китайская кукла"}
+{"Key":"ROLECONFIG_NAME_2","Text":"Студент"}
+{"Key":"ROLECONFIG_NAME_3","Text":"Горничная"}
+{"Key":"ROLECONFIG_NAME_4","Text":"Справочник туриста"}
+{"Key":"ROLECONFIG_NAME_5","Text":"Плохой парень"}
+{"Key":"ROLECONFIG_NAME_6","Text":"Маленький кот"}
+{"Key":"ROLECONFIG_NAME_7","Text":"Женщина-воин"}
+{"Key":"ROLECONFIG_NAME_8","Text":"Принцесса"}
+{"Key":"ROLECONFIG_NAME_9","Text":"Женщина агент"}
+{"Key":"ROLECONFIG_NAME_10","Text":"Маленькая красная шляпа"}
+{"Key":"ROLECONFIG_NAME_11","Text":"Оригинальная девушка"}
+{"Key":"ROLECONFIG_NAME_12","Text":"Маленький дьявол"}
+{"Key":"ROLECONFIG_NAME_13","Text":"Ювелирный магнат"}
+{"Key":"ROLECONFIG_NAME_14","Text":"Повар"}
+{"Key":"ROLECONFIG_NAME_15","Text":"Капитан"}
+{"Key":"ROLECONFIG_NAME_16","Text":"Управление"}
+{"Key":"ROLECONFIG_NAME_17","Text":"Сантехник"}
+{"Key":"ROLECONFIG_NAME_18","Text":"Врачи"}
+{"Key":"ROLECONFIG_NAME_19","Text":"Убийца свиней"}
+{"Key":"ROLECONFIG_NAME_20","Text":"Лесоруб"}
+{"Key":"ROLECONFIG_NAME_21","Text":"Священник"}
+{"Key":"ROLECONFIG_NAME_22","Text":"Пират"}
+{"Key":"ROLECONFIG_NAME_23","Text":"Экзорцист"}
+{"Key":"ROLECONFIG_NAME_24","Text":"Президент"}
+{"Key":"ROLECONFIG_NAME_25","Text":"Богатая женщина"}
+{"Key":"ROLECONFIG_NAME_26","Text":"Учитель"}
+{"Key":"ROLECONFIG_NAME_27","Text":"Стюардесса"}
+{"Key":"ROLECONFIG_NAME_28","Text":"Тендерная модель"}
+{"Key":"ROLECONFIG_NAME_29","Text":"Певица"}
+{"Key":"ROLECONFIG_NAME_30","Text":"Пилот"}
+{"Key":"ROLECONFIG_NAME_31","Text":"Женщина-кошка"}
+{"Key":"ROLECONFIG_NAME_32","Text":"Силы особого назначения"}
+{"Key":"ROLECONFIG_NAME_33","Text":"Зайчик девочка"}
+{"Key":"ROLECONFIG_NAME_34","Text":"Змеиный дух"}
+{"Key":"ROLECONFIG_NAME_35","Text":"Ведьма"}
+{"Key":"ROLECONFIG_NAME_36","Text":"Наложница"}
+{"Key":"ROLECONFIG_NAME_37","Text":"Хипстер"}
+{"Key":"ROLECONFIG_NAME_38","Text":"Боксер"}
+{"Key":"ROLECONFIG_NAME_39","Text":"Полицейские"}
+{"Key":"ROLECONFIG_NAME_40","Text":"Волшебник"}
+{"Key":"ROLECONFIG_NAME_41","Text":"Ниндзя"}
+{"Key":"ROLECONFIG_NAME_42","Text":"Художник"}
+{"Key":"ROLECONFIG_NAME_43","Text":"Оригинальный брат"}
+{"Key":"ROLECONFIG_NAME_44","Text":"принц"}
+{"Key":"ROLECONFIG_NAME_45","Text":"Маленький пират"}
+{"Key":"ROLECONFIG_NAME_46","Text":"Детектив"}
+{"Key":"ROLECONFIG_NAME_47","Text":"Ковбой"}
+{"Key":"ROLECONFIG_NAME_48","Text":"Супермен"}
+{"Key":"ROLECONFIG_NAME_49","Text":"Фермер"}
+{"Key":"ROLECONFIG_NAME_50","Text":"Сердитая молодежь"}
+{"Key":"ROLECONFIG_NAME_51","Text":"Лавочник"}
+{"Key":"ROLECONFIG_NAME_52","Text":"Выскочка"}
+{"Key":"ROLECONFIG_NAME_53","Text":"Рыцарская девушка"}
+{"Key":"ROLECONFIG_NAME_54","Text":"Придворная дама"}
+{"Key":"ROLECONFIG_NAME_55","Text":"Император"}
+{"Key":"ROLECONFIG_NAME_56","Text":"Другой мир"}
+{"Key":"ROLECONFIG_NAME_57","Text":"Смешанный"}
+{"Key":"ROLECONFIG_NAME_58","Text":"Банда нищих"}
+{"Key":"ROLECONFIG_NAME_59","Text":"Игрок"}
+{"Key":"ROLECONFIG_NAME_60","Text":"Профессор"}
+{"Key":"ROLECONFIG_NAME_61","Text":"Любимый"}
+{"Key":"ROLECONFIG_NAME_62","Text":"Кошки"}
+{"Key":"ROLECONFIG_NAME_63","Text":"Ван Синжэнь"}
+{"Key":"ROLECONFIG_NAME_64","Text":"Девятихвостый лис"}
+{"Key":"ROLECONFIG_NAME_65","Text":"Исследователь"}
+{"Key":"ROLECONFIG_NAME_66","Text":"Актер"}
+{"Key":"ROLECONFIG_NAME_67","Text":"Медсестра"}
+{"Key":"EVENTS_CONFIG_DESC_1","Text":"Собрали золотые монеты {НАЛИЧНЫЕ} у дороги."}
+{"Key":"EVENTS_CONFIG_DESC_2","Text":"Вор ворвался в дом и потерял золотые монеты {НАЛИЧНЫЕ}."}
+{"Key":"EVENTS_CONFIG_DESC_3","Text":"Магнитное поле запутало направление карты, и он повернулся."}
+{"Key":"EVENTS_CONFIG_DESC_4","Text":"Пьяный и упал в канаву, госпитализирован на 30 секунд."}
+{"Key":"EVENTS_CONFIG_DESC_5","Text":"Парковка на обочине дороги попала в СИЗО на 30 секунд"}
+{"Key":"EVENTS_CONFIG_DESC_6","Text":"Запугивал проходящего мимо ребенка и был оштрафован на золотые монеты в размере {CASH}."}
+{"Key":"EVENTS_CONFIG_DESC_7","Text":"Помогите бабушке перейти дорогу и получите в награду золотые монеты {CASH}."}
+{"Key":"EVENTS_CONFIG_DESC_8","Text":"Дом невысокий, и правительство помогло добавить к нему еще один этаж."}
+{"Key":"EVENTS_CONFIG_DESC_9","Text":"Выдающиеся навыки, получите купоны со скидкой {TICKET} в магазине."}
+{"Key":"EVENTS_CONFIG_DESC_10","Text":"Его ограбили и потеряли {TICKET} баллы."}
+{"Key":"EVENTS_CONFIG_DESC_11","Text":"Получите 1 карту в большой акции в магазине карт."}
+{"Key":"CARD_CONFIG_NAME_1001","Text":"1 шаг"}
+{"Key":"CARD_CONFIG_NAME_1002","Text":"2 шага"}
+{"Key":"CARD_CONFIG_NAME_1003","Text":"3 шага"}
+{"Key":"CARD_CONFIG_NAME_1004","Text":"4 шага"}
+{"Key":"CARD_CONFIG_NAME_1005","Text":"5 шагов"}
+{"Key":"CARD_CONFIG_NAME_1006","Text":"Обратиться к"}
+{"Key":"CARD_CONFIG_NAME_1007","Text":"Робот"}
+{"Key":"CARD_CONFIG_NAME_1008","Text":"свободно"}
+{"Key":"CARD_CONFIG_NAME_1009","Text":"Увеличение цены"}
+{"Key":"CARD_CONFIG_NAME_1010","Text":"Обмен земли"}
+{"Key":"CARD_CONFIG_NAME_1011","Text":"Боже, пожалуйста"}
+{"Key":"CARD_CONFIG_NAME_1012","Text":"Послать бога"}
+{"Key":"CARD_CONFIG_NAME_1013","Text":"Земля I"}
+{"Key":"CARD_CONFIG_NAME_1014","Text":"строительство"}
+{"Key":"CARD_CONFIG_NAME_1015","Text":"Воспользоваться"}
+{"Key":"CARD_CONFIG_NAME_1016","Text":"Проверить налог"}
+{"Key":"CARD_CONFIG_NAME_1017","Text":"Собака"}
+{"Key":"CARD_CONFIG_NAME_1018","Text":"землетрясение"}
+{"Key":"CARD_CONFIG_NAME_1019","Text":"Турбосвин"}
+{"Key":"CARD_CONFIG_NAME_1020","Text":"Продавец"}
+{"Key":"CARD_CONFIG_NAME_1021","Text":"Часовая бомба"}
+{"Key":"CARD_CONFIG_NAME_1022","Text":"Фугас"}
+{"Key":"CARD_CONFIG_NAME_1023","Text":"Желаемое за действительное"}
+{"Key":"CARD_CONFIG_NAME_1024","Text":"Оставаться"}
+{"Key":"CARD_CONFIG_NAME_1025","Text":"Roadblock"}
+{"Key":"CARD_CONFIG_NAME_1026","Text":"черепаха"}
+{"Key":"CARD_CONFIG_NAME_1027","Text":"Скрытность"}
+{"Key":"CARD_CONFIG_NAME_1028","Text":"послать"}
+{"Key":"CARD_CONFIG_NAME_1029","Text":"В рамке"}
+{"Key":"CARD_CONFIG_NAME_1030","Text":"Лунатизм"}
+{"Key":"CARD_CONFIG_NAME_1031","Text":"урвать"}
+{"Key":"CARD_CONFIG_NAME_1032","Text":"месть"}
+{"Key":"CARD_CONFIG_NAME_1033","Text":"Защита"}
+{"Key":"CARD_CONFIG_NAME_1034","Text":"Извините"}
+{"Key":"CARD_CONFIG_NAME_1035","Text":"Демонтировать"}
+{"Key":"CARD_CONFIG_NAME_1036","Text":"Монета"}
+{"Key":"CARD_CONFIG_NAME_1037","Text":"Превосходный урожай"}
+{"Key":"CARD_CONFIG_NAME_1038","Text":"Уровень"}
+{"Key":"CARD_CONFIG_NAME_1039","Text":"Земля II"}
+{"Key":"CARD_CONFIG_NAME_1040","Text":"Грабитель"}
+{"Key":"CARD_CONFIG_DESC_1001","Text":"Количество очков после использования - 1"}
+{"Key":"CARD_CONFIG_DESC_1002","Text":"Количество очков после использования - 2."}
+{"Key":"CARD_CONFIG_DESC_1003","Text":"Количество кубиков после использования - 3"}
+{"Key":"CARD_CONFIG_DESC_1004","Text":"Количество кубиков после использования - 4"}
+{"Key":"CARD_CONFIG_DESC_1005","Text":"Количество кубиков после использования - 5."}
+{"Key":"CARD_CONFIG_DESC_1006","Text":"Обратное направление после использования"}
+{"Key":"CARD_CONFIG_DESC_1007","Text":"Очистите все препятствия в передних 3 блоках"}
+{"Key":"CARD_CONFIG_DESC_1008","Text":"Когда необходимо платить большие дорожные сборы, на 50% меньше денег"}
+{"Key":"CARD_CONFIG_DESC_1009","Text":"Выберите здание в пределах 6 блоков, чтобы следующая зарядка составила 200%."}
+{"Key":"CARD_CONFIG_DESC_1010","Text":"При проживании на чужой земле выберите землю той же площади в пределах 6 кварталов, чтобы обменять собственность"}
+{"Key":"CARD_CONFIG_DESC_1011","Text":"Обладать ближайшей феей в пределах 6 кварталов"}
+{"Key":"CARD_CONFIG_DESC_1012","Text":"Заставь богов уйти"}
+{"Key":"CARD_CONFIG_DESC_1013","Text":"Купите здание противника, а уровень здания меньше 5"}
+{"Key":"CARD_CONFIG_DESC_1014","Text":"Улучшите собственное здание до уровня 1"}
+{"Key":"CARD_CONFIG_DESC_1015","Text":"Выберите здание в пределах 6 квадратов, чтобы прекратить зарядку на 1 раунд"}
+{"Key":"CARD_CONFIG_DESC_1016","Text":"Выберите любого соперника в 3 квадратах и ​​взимайте с него 10% денег"}
+{"Key":"CARD_CONFIG_DESC_1017","Text":"Поместите собаку, наступите на собаку, которая будет госпитализирована на 30 секунд."}
+{"Key":"CARD_CONFIG_DESC_1018","Text":"Выберите ожидаемое здание в пределах 3 сеток, тем самым уменьшив уровень на 1"}
+{"Key":"CARD_CONFIG_DESC_1019","Text":"Выберите 3 блока внутри здания противника и признайте следующий удар; если вы наступите на него, вы будете освобождены от платы за проезд."}
+{"Key":"CARD_CONFIG_DESC_1020","Text":"Призывайте мелких торговцев и покупайте у них карты"}
+{"Key":"CARD_CONFIG_DESC_1021","Text":"Установите бомбу замедленного действия и попадите в больницу на 30 секунд после взрыва."}
+{"Key":"CARD_CONFIG_DESC_1022","Text":"Выберите открытое пространство в пределах 3 квадратов для установки мин, и персонаж должен быть госпитализирован на 20 секунд."}
+{"Key":"CARD_CONFIG_DESC_1023","Text":"Выберите 1-6 кубиков"}
+{"Key":"CARD_CONFIG_DESC_1024","Text":"Оставайтесь на месте в течение 1 раунда после использования"}
+{"Key":"CARD_CONFIG_DESC_1025","Text":"Ставьте заграждения и заставляйте персонажа оставаться на месте при прохождении мимо"}
+{"Key":"CARD_CONFIG_DESC_1026","Text":"Сделайте 1 шаг в течение 3 последовательных раундов после использования."}
+{"Key":"CARD_CONFIG_DESC_1027","Text":"Невидимый на 1 раунд, бесплатно"}
+{"Key":"CARD_CONFIG_DESC_1028","Text":"Случайно телепортироваться к оппоненту"}
+{"Key":"CARD_CONFIG_DESC_1029","Text":"Выберите любого противника в пределах 3 квадратов и посадите его в тюрьму на 3 раунда."}
+{"Key":"CARD_CONFIG_DESC_1030","Text":"Выберите любого противника в пределах 3 клеток, чтобы пройти 2 раунда во сне."}
+{"Key":"CARD_CONFIG_DESC_1031","Text":"Выберите любого соперника в пределах 3 клеток и случайным образом возьмите одну из его карт."}
+{"Key":"CARD_CONFIG_DESC_1032","Text":"Иммунитет проверить налоговую карту и передать наказание оппоненту"}
+{"Key":"CARD_CONFIG_DESC_1033","Text":"Уничтожьте бомбы замедленного действия, мины и злобных собак в течение 2 раундов"}
+{"Key":"CARD_CONFIG_DESC_1034","Text":"Освобожден от заключения"}
+{"Key":"CARD_CONFIG_DESC_1035","Text":"Здание соперника понижено на 1"}
+{"Key":"CARD_CONFIG_DESC_1036","Text":"Случайно получить 3000-4000 золотых монет"}
+{"Key":"CARD_CONFIG_DESC_1037","Text":"Получите два ресурса. Тип ресурса указываете сами."}
+{"Key":"CARD_CONFIG_DESC_1038","Text":"Повышение уровня на 2 очка опыта"}
+{"Key":"CARD_CONFIG_DESC_1039","Text":"Купите здание противника на локации, без ограничения уровня здания"}
+{"Key":"CARD_CONFIG_DESC_1040","Text":"Расставьте грабителей и соберите 30 билетов у противника, всего 3 раза"}
+{"Key":"RULE_STR_001","Text":"Правила игры"}
+{"Key":"RULE_STR_002","Text":"Обзор"}
+{"Key":"RULE_STR_003","Text":"Number One Rich - это боевая стратегическая игра для 8 игроков. Игроки получают золотые монеты в начале игры. Они используют удачу, чтобы бросить кости, купить землю и построить здания, чтобы заработать арендную плату. Игроки разоряют других игроков в игре, и последний оставшийся игрок - победитель."}
+{"Key":"RULE_STR_004","Text":"Выиграть"}
+{"Key":"RULE_STR_005","Text":"Выиграть несложно: покупайте землю, улучшайте здания и разоряйте других игроков, взимая арендную плату."}
+{"Key":"RULE_STR_006","Text":"Ход игры"}
+{"Key":"RULE_STR_007","Text":"Number One Rich - это игра в реальном времени. Бросая кости путем восстановления энергии, вы можете покупать землю и строить здания там, где вы остановились, и вы должны платить арендную плату, когда проезжаете мимо земли других игроков. Игроки могут использовать билеты, чтобы покупать реквизиты для карт в Магазин карточек Использование реквизита для карточек также является важной выигрышной стратегией."}
+{"Key":"RULE_STR_101","Text":"Введение в карту"}
+{"Key":"RULE_STR_102","Text":"Карта содержит фиксированные точки запуска случайных событий, карточный магазин, билеты, здания и точки механизма ресурсов."}
+{"Key":"RULE_STR_103","Text":"Земельные участки"}
+{"Key":"RULE_STR_104","Text":"Игроки могут потреблять <img src ='ui://UIRichMan/icon_element_1' width ='20' height ='20'/> <img src ='ui://UIRichMan/icon_element_2' width ='20' height ='20'/> <img src ='ui://UIRichMan/icon_element_3' width ='20' height ='20'/> <img src ='ui://UIRichMan/icon_element_4' width ='20' height ='20'/> Купить землю под дом"}
+{"Key":"RULE_STR_105","Text":"Магазин открыток"}
+{"Key":"RULE_STR_106","Text":"1. Когда игрок наступает на эту точку, он может использовать билет для покупки карточных предметов.\n2. После достижения уровня 6 игроки могут использовать <img src ='ui://UIRichMan/icon_element_1' width ='20' height ='20'/> <img src ='ui://UIRichMan/icon_element_2' width ='20' height ='20'/> <img src ='ui://UIRichMan/icon_element_3' width ='20' height ='20'/> <img src ='ui://UIRichMan/icon_element_4' width ='20' height ='20'/> Откройте CardShop."}
+{"Key":"RULE_STR_107","Text":"Билет"}
+{"Key":"RULE_STR_108","Text":"Игроки получают соответствующие очки ценности"}
+{"Key":"RULE_STR_109","Text":"Случайные события"}
+{"Key":"RULE_STR_110","Text":"Случайно запускайте события, такие как госпитализация, попадание в тюрьму, получение монет, билетов, карт и других предметов."}
+{"Key":"RULE_STR_111","Text":"Точка механизма ресурсов"}
+{"Key":"RULE_STR_112","Text":"После того, как игрок войдет, если общее количество ресурсов> 7, половина ресурсов будет случайным образом отброшена. Если общее количество ресурсов меньше 7, будет получен случайный ресурс. Если количество ресурсов = 7, нет эффект будет запущен."}
+{"Key":"RULE_STR_113","Text":"Больница/Полиция"}
+{"Key":"RULE_STR_114","Text":"Когда игрок госпитализирован или находится в тюрьме, он не может получать ренту и ресурсы и автоматически освобождается по прошествии определенного периода времени."}
+{"Key":"RULE_STR_115","Text":"Боги"}
+{"Key":"RULE_STR_116","Text":"Через определенные промежутки времени боги будут случайным образом обновляться на карте."}
+{"Key":"RULE_STR_201","Text":"Описание ресурса"}
+{"Key":"RULE_STR_202","Text":"Монета <img src ='ui://UIRichMan/icon_128_cash' width ='30' height ='30'/>"}
+{"Key":"RULE_STR_203","Text":"После того, как игрок получит начальные золотые монеты в начале игры, их можно получить, собирая ренту, обменивая ресурсы или инициируя случайные события.После того, как золотые монеты станут нулевыми, они обанкротятся."}
+{"Key":"RULE_STR_204","Text":"Билет <img src ='ui://UIRichMan/icon_ticket' width ='30' height ='30'/>"}
+{"Key":"RULE_STR_205","Text":"Потребляя билеты, вы можете покупать карточные предметы в карточном магазине."}
+{"Key":"RULE_STR_206","Text":"Ресурсы <img src ='ui://UIRichMan/icon_element_1' width ='30' height ='30'/> <img src ='ui://UIRichMan/icon_element_2' width ='30' height ='30'/> <img src ='ui://UIRichMan/icon_element_3' width ='30' height ='30'/> <img src ='ui://UIRichMan/icon_element_4' width ='30' height ='30'/> <img src ='ui://UIRichMan/icon_element_5' width ='30' height ='30'/>"}
+{"Key":"RULE_STR_207","Text":"5 типов ресурсов, которые можно использовать для строительства и улучшения домов, обмена на золотые монеты и билеты"}
+{"Key":"RULE_STR_208","Text":"Обмен системными ресурсами"}
+{"Key":"RULE_STR_209","Text":"Игроки могут обменивать лишние ресурсы на другие необходимые ресурсы\nСоотношение составляет 4: 1, а золотые монеты можно получить, обменяв ресурсы."}
+{"Key":"RULE_STR_210","Text":"Обмен ресурсов на монеты и билеты"}
+{"Key":"RULE_STR_211","Text":"Игроки могут потреблять ресурсы, обменивать монеты или билеты."}
+{"Key":"RULE_STR_301","Text":"Глоссарий"}
+{"Key":"RULE_STR_302","Text":"Здесь вы найдете подробное объяснение терминов и концепций, используемых в Number One Rich."}
+{"Key":"RULE_STR_303","Text":"Уровень игрока <img src ='ui://UIRichMan/icon_128_rate_6' width ='30' height ='30'/>"}
+{"Key":"RULE_STR_304","Text":"Есть 6 уровней игрока, и игроку нужно потреблять <img src ='ui://UIRichMan/icon_element_1' width ='20' height ='20'/> <img src ='ui://UIRichMan/icon_element_2' width ='20' height ='20'/> Повышайте уровень.\nВы можете покупать еще одно здание при каждом повышении уровня. Нет ограничений на количество зданий, которые вы можете купить после достижения уровня."}
+{"Key":"RULE_STR_305","Text":"Индекс цен"}
+{"Key":"RULE_STR_306","Text":"Индекс цен увеличивается с повышением уровня игрока.\nЧем выше индекс цен, тем выше доход от аренды."}
+{"Key":"RULE_STR_307","Text":"Строительный класс"}
+{"Key":"RULE_STR_308","Text":"Есть 5 уровней застройки\nКупить землю <img src ='ui://UIRichMan/icon_element_1' width ='20' height ='20'/> <img src ='ui://UIRichMan/icon_element_2' width ='20' height ='20'/> <img src ='ui://UIRichMan/icon_element_3' width ='20' height ='20'/> <img src ='ui://UIRichMan/icon_element_4' width ='20' height ='20'/>\nОбновить здание <img src ='ui://UIRichMan/icon_element_3' width ='20' height ='20'/> <img src ='ui://UIRichMan/icon_element_4' width ='20' height ='20'/> <img src ='ui://UIRichMan/icon_element_5' width ='20' height ='20'/>"}
+{"Key":"RULE_STR_309","Text":"Ряд земли"}
+{"Key":"RULE_STR_310","Text":"Когда игрок занимает две или более земель одного цвета, они образуют ряд, и другие игроки, проходящие через любой ряд земли, могут собирать ренту и ресурсы за этот ряд."}
+{"Key":"RULE_STR_311","Text":"Игра в кости"}
+{"Key":"RULE_STR_312","Text":"Игроку необходимо накопить определенное количество энергии, прежде чем использовать кости.Если энергия переливается, автоматически запускается бросок кубика."}

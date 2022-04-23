@@ -1,56 +1,59 @@
 ﻿using System.Linq;
 using FairyGUI;
+using UnityEngine;
 
 namespace ET
 {
-	[ObjectSystem]
-	public class UIWindowAwakeSystem : AwakeSystem<UIWindow,GObject>
+	[ChildType(typeof(WindowCoreData))]
+	public class UIWindow: Entity,IAwake<GObject>
 	{
-		public override void Awake(UIWindow self,GObject gobject)
+		public bool IsPreLoad
 		{
-			self.Awake(gobject);
-		}
-	}
-
-	public sealed class UIWindow: Entity,IAwake<GObject>
-	{
-        public GObject mGObject;
-        public void Awake(GObject gobject)
-		{
-            this.mGObject = gobject;
+			get
+			{
+				return this.mGObject != null;
+			}
 		}
 
-	    public void Show()
-	    {
-            Entity[] components = this.Components.Values.ToArray();
-	        foreach (Entity ui in components)
-	        {
-	            UIBaseView view = ui as UIBaseView;
-	            view?.Show();
-	        }
-        }
+		public GComponent uiPanel
+		{
+			get
+			{
+				if (null != this.mPanel)
+				{
+					return this.mPanel;
+				}
+				return null;
+			}
+		}
 
-	    public void Close()
-	    {
-            Entity[] components = this.Components.Values.ToArray();
-            foreach (Entity ui in components)
-            {
-	            UIBaseView view = ui as UIBaseView;
-	            view?.Hiding();
-	        }
+		public WindowId WindowId
+		{
+			get
+			{
+				if (this.m_windowId == WindowId.Invaild)
+				{
+					Debug.LogError("window id is " + WindowId.Invaild);
+				}
+				return m_windowId;
+			}
+			set { m_windowId = value; }
+		}
+		
+		public WindowId m_windowId = WindowId.Invaild;
 
-	        Dispose();
-	    }
+		public GObject mGObject = null;
+		public GComponent mPanel = null;
 
-	    public override void Dispose()
+		public WindowCoreData WindowData = null;
+
+		public override void Dispose()
 		{
 			if (this.IsDisposed)
 			{
 				return;
 			}
-            
-            base.Dispose();
+			base.Dispose();
 		}
-        
 	}
 }

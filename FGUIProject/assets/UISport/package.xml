@@ -22,6 +22,9 @@
     <image id="vifem" name="icon_clock.png" path="/Resources/Image/icon/" exported="true"/>
     <image id="vifen" name="icon_speed.png" path="/Resources/Image/icon/" exported="true"/>
     <font id="vifeq" name="Myriad-Bold.otf" path="/Font/" renderMode="" samplePointSize="16"/>
+    <image id="ufvgr" name="icon_sound_off.png" path="/Resources/Image/icon/" exported="true"/>
+    <image id="ufvgs" name="icon_sound_on.png" path="/Resources/Image/icon/" exported="true"/>
+    <component id="ufvgt" name="ButtonSound.xml" path="/Component/Button/" exported="true"/>
   </resources>
   <publish name=""/>
 </packageDescription>

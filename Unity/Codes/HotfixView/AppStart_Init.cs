@@ -19,7 +19,9 @@ namespace ET
             ConfigComponent.Instance.Load();
             ResourcesComponent.Instance.UnloadBundle("config.unity3d");
 
-            Game.Scene.AddComponent<UIMangage>();
+            Game.Scene.AddComponent<SoundComponent>();
+            Game.Scene.AddComponent<Localizer>();
+            Game.Scene.AddComponent<UIManage>();
 
             Game.Scene.AddComponent<OpcodeTypeComponent>();
             Game.Scene.AddComponent<MessageDispatcherComponent>();
@@ -32,7 +34,9 @@ namespace ET
             Game.Scene.AddComponent<NumericWatcherComponent>();
             Game.Scene.AddComponent<AIDispatcherComponent>();
             await ResourcesComponent.Instance.LoadBundleAsync("unit.unity3d");
-            
+
+            Game.Scene.GetComponent<Localizer>().LoadLanguageDefault();
+
             Scene zoneScene = SceneFactory.CreateZoneScene(1, "Game", Game.Scene);
             
             Game.EventSystem.Publish(new EventType.AppStartInitFinish() { ZoneScene = zoneScene });
